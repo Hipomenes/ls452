@@ -21,21 +21,25 @@ bigimg: /img/4partes.jpg
 - Stradanus & Theodoor Galle, “Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600
 - Michel de Certeau, *La escritura de la historia*, fragmento
 
-## Semana 1. La “invención” del Nuevo Mundo
+# Semana 1 
+## La “invención” del Nuevo Mundo
 
 - Cristobal Colón, “Carta a Luis de Santángel”
 - Cristobal Colón, “Dario de abordo”
 - Codicilio al testamento de la Reina Isabel la Católica (Medina del Campo, 23 nov 1504)
 
-## Semana 2. El malestar en el imperio
+# Semana 2
+## El malestar en el imperio
 
 - Bartolomé de las Casas, Brevísima relación de la destrucción de las Indias 
 
-## Semana 3. Estrategia y discurso de Conquista 
+# Semana 3
+##  Estrategia y discurso de Conquista 
 
 - Hernán Cortés, “Segunda Carta de Relación”
 
-## Semana 4. Migración y peregrinación
+# Semana 4
+##  Migración y peregrinación
 
 - Alvarado Tezozomoc, Crónica mexicana (ch. 1)
 
