@@ -15,6 +15,7 @@ bigimg: /img/4partes.jpg
 <br>
 <br>
 
+# Semana ∅
 ## Introduction
 
 - Eliseo Diego, “Cristobal Colón inventa el Nuevo Mundo”
