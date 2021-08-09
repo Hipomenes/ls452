@@ -8,7 +8,7 @@ subtitle: Spring 2021
 
 | Wk | Date | Reading | Assignment | Presentation|
 |:------:|:------|:--------:|:------:|----:|
-| 0   | Sep. 3   |  
+| ∅   | Sep. 3   |  
 |  I  | Sep. 6   | **Labor Day** |
 |     | Sep. 8   | 
 |     | Sep. 10  | 
