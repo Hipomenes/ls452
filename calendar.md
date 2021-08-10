@@ -12,9 +12,9 @@ subtitle: Spring 2021
 |  I  | Sep. 6   | **Labor Day** |
 |     | Sep. 8   | Colón; Adorno, Ch. 1 
 |     | Sep. 10  | Vespucci 
-|  II | Sep. 13  | Sermón; Las Casas, pp. 7-18 | | ____
-|     | Sep. 15  | 
-|     | Sep. 17  | 
+|  II | Sep. 13  | Sermón; Las Casas, pp. 7-35 | | ____
+|     | Sep. 15  | Las Casas, 48-71
+|     | Sep. 17  | Las Casas, 139-159
 | III | Sep. 20  |  | | ____
 |     | Sep. 22  | 
 |     | Sep. 24  | 
