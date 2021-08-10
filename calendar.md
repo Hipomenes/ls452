@@ -43,8 +43,8 @@ subtitle: Spring 2021
 |     | Nov. 17  | 
 |     | Nov. 19  | 
 | XII | Nov. 22  | *Remote Class*   | | 10. ____
-|     | Nov. 24  | **Thanks Giving**
-|     | Nov. 26  | **Thanks Giving**
+|     | Nov. 24  | **Thanksgiving**
+|     | Nov. 26  | **Thanksgiving**
 |XIII | Nov. 29  |    | | ____
 |     | Dec. 1   | 
 |     | Dec. 3   | 
