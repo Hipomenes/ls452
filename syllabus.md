@@ -18,16 +18,15 @@ bigimg: /img/4partes.jpg
 # Semana ∅
 ## Introduction
 
-- Eliseo Diego, “Cristobal Colón inventa el Nuevo Mundo”
-- Stradanus & Theodoor Galle, “Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600
-- Michel de Certeau, *La escritura de la historia*, fragmento
+- Eliseo Diego, [“Cristobal Colón inventa el Nuevo Mundo”]()
+- Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600]()
+- Michel de Certeau, [*La escritura de la historia*, fragmento]()
 
 # Semana 1 
 ## La “invención” del Nuevo Mundo
 
-- Adorno & Echeverría, *Breve historia de la literatura latinoamericana colonial y moderna*, Capítulo 1
+- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), Capítulo 1
 - Cristobal Colón, ["Carta a Luis de Santángel”]()
-
 - Amerigo Vespucci,["Carta a Lorenzo de Medicci]() 
 
 
