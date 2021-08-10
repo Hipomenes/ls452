@@ -25,13 +25,15 @@ bigimg: /img/4partes.jpg
 # Semana 1 
 ## La “invención” del Nuevo Mundo
 
-- Cristobal Colón, “Carta a Luis de Santángel”
-- Cristobal Colón, “Dario de abordo”
-- Codicilio al testamento de la Reina Isabel la Católica (Medina del Campo, 23 nov 1504)
+- Adorno & Echeverría, *Breve historia de la literatura latinoamericana colonial y moderna*, Capítulo 1
+- Cristobal Colón, ["Carta a Luis de Santángel”]()
+- Amerigo Vespucci,["Carta a Lorenzo de Medicci]() 
+
 
 # Semana 2
 ## El malestar en el imperio
 
+- Codicilio al testamento de la Reina Isabel la Católica (Medina del Campo, 23 nov 1504)
 - Bartolomé de las Casas, Brevísima relación de la destrucción de las Indias 
 
 # Semana 3
