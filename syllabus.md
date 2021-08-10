@@ -23,19 +23,22 @@ bigimg: /img/4partes.jpg
 - Michel de Certeau, [*La escritura de la historia*, fragmento]()
 
 # Semana 1 
-## La “invención” del Nuevo Mundo
+## La "invención" del Nuevo Mundo
 
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), Capítulo 1
-- Cristobal Colón, ["Carta a Luis de Santángel”]()
-- Amerigo Vespucci,["Carta a Lorenzo de Médicis]() 
+- Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (Lisboa, 1493)
+- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]() 
 
 
 # Semana 2
-## El malestar en el imperio
+## Malestares imperiales
 
-- Codicilio al testamento de la Reina Isabel la Católica (Medina del Campo, 23 nov 1504)
-- Bartolomé de las Casas, Brevísima relación de la destrucción de las Indias 
+- Bula [*Sublimus Dei*, Paulo III](https://drive.google.com/open?id=1ilW5K8PiJTCY8_lL8I5U-6-Tr8_xNkIv) (Roma, 1537)
+- Juan Ginés de Sepúlveda, [*Democrates Segundo, o, de las justas causas de la guerra contra los Indios*](https://drive.google.com/open?id=1u1BvgI1OrQJQ15hjFwXFgGJQsHBBP5lH) (Madrid, 1550)
+- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (Santo Domingo, 1540s)
 
+    - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
+   
 # Semana 3
 ##  Estrategia y discurso de Conquista 
 
