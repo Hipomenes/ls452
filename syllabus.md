@@ -27,7 +27,7 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), Capítulo 1
 - Cristobal Colón, ["Carta a Luis de Santángel”]()
-- Amerigo Vespucci,["Carta a Lorenzo de Medicci]() 
+- Amerigo Vespucci,["Carta a Lorenzo de Médicis]() 
 
 
 # Semana 2
