@@ -18,9 +18,9 @@ subtitle: Spring 2021
 | III | Sep. 20  | Adorno, chap. 3; Todorov; Cortés | | 2. ____
 |     | Sep. 22  | Cortés
 |     | Sep. 24  | Cortés
-| IV  | Sep. 27  |   | | 3. ____
-|     | Sep. 29  | 
-|     | Oct. 1   | 
+| IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | 3. ____
+|     | Sep. 29  | León-Portilla, chap. XIV |
+|     | Oct. 1   | León-Portilla, chap. XV
 | V   | Oct. 4   |    | | 4. ____
 |     | Oct. 6   | 
 |     | Oct. 8   | 
