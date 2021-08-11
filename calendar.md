@@ -21,9 +21,9 @@ subtitle: Spring 2021
 | IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | 3. ____
 |     | Sep. 29  | León-Portilla, chap. XIV |
 |     | Oct. 1   | León-Portilla, chap. XV
-| V   | Oct. 4   |    | | 4. ____
-|     | Oct. 6   | 
-|     | Oct. 8   | 
+| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | | 4. ____
+|     | Oct. 6   | Ercilla, Canto XIII
+|     | Oct. 8   | Erccilla, Canto XIV 
 | VI  | Oct. 11  | **Indigenous Peoples' Day**
 |     | Oct. 13  | 
 |     | Oct. 15  | 
