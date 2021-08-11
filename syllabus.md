@@ -56,7 +56,8 @@ bigimg: /img/4partes.jpg
 
 ## Semana 6. La épica vacilante
 
-- Bernal Díaz del Castillo, Verdadera historia de la conquista
+- Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]
+- Bernal Díaz del Castillo, [Historia verdadera de la conquista de la Nueva España]() (1632)
 
 ## Semana 7. Errancia y anti-épica
 
