@@ -26,14 +26,14 @@ bigimg: /img/4partes.jpg
 ## La "invención" del Nuevo Mundo
 
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), Capítulo 1
-- Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (Lisboa, 1493)
-- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]() 
+- Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
+- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
 
 
 # Semana 2
 ## Malestares imperiales
 
-- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (Santo Domingo, 1540s)
+- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
     - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
@@ -47,12 +47,12 @@ bigimg: /img/4partes.jpg
 ##  La visión de los vencidos
 
 - Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]()
-- Miguel León Portilla, ["Relación de Tlatelolco (1528)"]()
-- Miguel León Portilla, ["Cantos tristes de la Conquista"]()
+- Miguel León Portilla, ["Relación de Tlatelolco"]()(1528)
+- Miguel León Portilla, ["Cantos tristes de la Conquista"]()(1570s)
 
 ## Semana 5. Épicas de la frontera
 
-- Alonso de Ercilla, La Araucana
+- Alonso de Ercilla y Zúñiga, [La Araucana]()(1569, 1578, 1589)
 
 ## Semana 6. La épica vacilante
 
