@@ -25,8 +25,8 @@ subtitle: Spring 2021
 |     | Oct. 6   | Ercilla, Canto XIII
 |     | Oct. 8   | Erccilla, Canto XIV 
 | VI  | Oct. 11  | **Indigenous Peoples' Day**
-|     | Oct. 13  | 
-|     | Oct. 15  | 
+|     | Oct. 13  | Fuentes, pp. 72-83 & 88-96; Bernal, "Prólogo" & chaps. 27-29
+|     | Oct. 15  | Bernal, chaps. 36-37, 82-3 & 91
 | VII | Oct. 18  |    | | 5. ____
 |     | Oct. 20  | 
 |     | Oct. 22  | 
