@@ -50,20 +50,24 @@ bigimg: /img/4partes.jpg
 - Miguel León Portilla, ["Relación de Tlatelolco"]()(1528)
 - Miguel León Portilla, ["Cantos tristes de la Conquista"]()(1570s)
 
-## Semana 5. Épicas de la frontera
+# Semana 5 
+## Épicas de la frontera
 
 - Alonso de Ercilla y Zúñiga, [La Araucana]()(1569, 1578, 1589)
 
-## Semana 6. La épica vacilante
+# Semana 66 
+## La épica vacilante
 
 - Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]
 - Bernal Díaz del Castillo, [Historia verdadera de la conquista de la Nueva España]() (1632)
 
-## Semana 7. Errancia y anti-épica
+# Semana 7 
+## Devenir Otro
 
-- Cabeza de Vaca, *Naufragios*
+- Cabeza de Vaca, [*Naufragios*]()
 
-## Semana 8. Miradas criollas, historias cruzadas
+# Semana 8. 
+## Miradas criollas, historias cruzadas
 
 - Garcilaso de la Vega, La Florida del Inca
 
