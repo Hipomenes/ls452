@@ -10,14 +10,14 @@ subtitle: Spring 2021
 |:------:|:------|:--------:|:------:|----:|
 | ∅   | Sep. 3   |  
 |  I  | Sep. 6   | **Labor Day** |
-|     | Sep. 8   | Colón; Adorno, Chap. 1 
+|     | Sep. 8   | Colón; Adorno, chap. 1 
 |     | Sep. 10  | Vespucci 
 |  II | Sep. 13  | Las Casas, "Prólogo," pp. xiv-xxxii; 7-35 | | 1. ____
 |     | Sep. 15  | Las Casas, pp. 48-71
 |     | Sep. 17  | Las Casas, pp. 139-159
-| III | Sep. 20  |  | | 2. ____
-|     | Sep. 22  | 
-|     | Sep. 24  | 
+| III | Sep. 20  | Adorno, chap. 3; Todorov; Cortés | | 2. ____
+|     | Sep. 22  | Cortés
+|     | Sep. 24  | Cortés
 | IV  | Sep. 27  |   | | 3. ____
 |     | Sep. 29  | 
 |     | Oct. 1   | 
