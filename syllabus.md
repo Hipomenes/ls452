@@ -33,20 +33,22 @@ bigimg: /img/4partes.jpg
 # Semana 2
 ## Malestares imperiales
 
-- Sermón de Montesinos
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (Santo Domingo, 1540s)
     - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
-##  Estrategia y discurso de Conquista 
+##  El discurso de Conquista 
 
-Adorno & Echeverría, [*Breve historia...*](), Capítulo 3
-- Hernán Cortés, "Segunda Carta de Relación"
+- Adorno & Echeverría, [*Breve historia...*](), Capítulo 3
+- Todorov, [*La Conquista...*]()
+- Hernán Cortés, ["Segunda Carta de Relación"]
 
 # Semana 4
-##  Migración y peregrinación
+##  La visión de los vencidos
 
-- Alvarado Tezozomoc, Crónica mexicana (ch. 1)
+- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]()
+- Miguel León Portilla, ["Relación de Tlatelolco (1528)"]()
+- Miguel León Portilla, ["Cantos tristes de la Conquista"]()
 
 ## Semana 5. Épicas de la frontera
 
