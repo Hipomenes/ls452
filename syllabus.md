@@ -40,7 +40,8 @@ bigimg: /img/4partes.jpg
 # Semana 3
 ##  Estrategia y discurso de Conquista 
 
-- Hernán Cortés, “Segunda Carta de Relación”
+Adorno & Echeverría, [*Breve historia...*](), Capítulo 3
+- Hernán Cortés, "Segunda Carta de Relación"
 
 # Semana 4
 ##  Migración y peregrinación
