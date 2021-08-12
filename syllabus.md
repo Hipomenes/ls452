@@ -78,22 +78,23 @@ bigimg: /img/4partes.jpg
 - Fray Marcos de Niza, “Descubrimiento de las siete ciudades de Cíbola"
 - Werner Herzog, Aguire y la Ira de Dios
 
-## Semana 10. ¿¿¿???
-
-- Guamán Poma de Ayala, Nueva corónica y buen gobierno
-
-## Semana 11. Tránsitos y bilocaciones
+## Semana 10. Tránsitos y bilocaciones
 
 - Francisco de Aguilera, Vida de la venerable Catherina de San Juan (Puebla, 1688)
 - Informe de Benavides sobre Sor María Ágreda
 
-## Semana 12. Vagabundeos planetarios
+## Semana 11. Vagabundeos planetarios
 
 - Sigüenza y Góngora, Infortunios de Alonso Ramírez
 
-## Semana 13. Identidades en tránsito
+## Semana 12. Identidades en tránsito
 
 - Catalina de Erauso, Historia de la monja alférez escrita por ella misma
+
+# Semana 13. 
+## Legados coloniales y posibilidades futuras
+
+- Conferencias y eventos contemporáneos
 
 ## Semana 14. Taller de trabajos finales
 
