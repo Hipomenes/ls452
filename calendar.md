@@ -11,22 +11,22 @@ subtitle: Fall 2021
 | ∅   | Sep. 3   | **Introductin** 
 |  I  | Sep. 6   | **Labor Day** |
 |     | Sep. 8   | Adorno, chap. 1, Colón, "Carta a Santángel"; Anghiera, Cartas 133
-|     | Sep. 10  | Vespucci | | ___
+|     | Sep. 10  | Vespucci | | ____
 |  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Prólogo," pp. xiv-xxxii; 5-12 | | 
-|     | Sep. 15  | Las Casas, pp. 12-41 | |  ___
+|     | Sep. 15  | Las Casas, pp. 12-41 | |  ____
 |     | Sep. 17  | Las Casas, pp. 98-115; 153-9 
 | III | Sep. 20  | Adorno, chap. 4; Todorov; Cortés | | 
-|     | Sep. 22  | Cortés | | ___
+|     | Sep. 22  | Cortés | | ____
 |     | Sep. 24  | Cortés
-| IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | ___
+| IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | ____
 |     | Sep. 29  | León-Portilla, chap. XIV |
-|     | Oct. 1   | León-Portilla, chap. XV | | ___
-| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | | ___
+|     | Oct. 1   | León-Portilla, chap. XV | | ____
+| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | | ____
 |     | Oct. 6   | Ercilla, Canto I
-|     | Oct. 8   | Erccilla, Canto XXIV | | ___
+|     | Oct. 8   | Erccilla, Canto XXIV | | ____
 | VI  | Oct. 11  | **Indigenous Peoples' Day** 
 |     | Oct. 13  | Fuentes, pp. 72-83 & 88-96; Bernal, "Prólogo" & chaps. 27-29
-|     | Oct. 15  | Bernal, chaps. 36-37, 82-3 & 91 | | ____
+|     | Oct. 15  | Bernal, chaps. 36-37, 82-3 & 91 | | _____
 | VII | Oct. 18  |    | | 
 |     | Oct. 20  | 
 |     | Oct. 22  | 
@@ -42,7 +42,7 @@ subtitle: Fall 2021
 | XI  | Nov. 15  |    | | 
 |     | Nov. 17  | 
 |     | Nov. 19  | 
-| XII | Nov. 22 (*Remote Class*) |   | | 10. ____
+| XII | Nov. 22 (*Remote Class*) |   | | _____
 |     | Nov. 24  | **Thanksgiving**
 |     | Nov. 26  | **Thanksgiving**
 |XIII | Nov. 29  |    | | ____
