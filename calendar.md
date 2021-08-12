@@ -42,7 +42,7 @@ subtitle: Fall 2021
 | XI  | Nov. 15  |    | | 
 |     | Nov. 17  | 
 |     | Nov. 19  | 
-| XII | Nov. 22  | *Remote Class*   | | 10. ____
+| XII | Nov. 22 (*Remote Class*) |   | | 10. ____
 |     | Nov. 24  | **Thanksgiving**
 |     | Nov. 26  | **Thanksgiving**
 |XIII | Nov. 29  |    | | ____
