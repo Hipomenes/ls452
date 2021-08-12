@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-subtitle: Spring 2021
+subtitle: Fall 2021
 ---
 
 <br>
@@ -10,7 +10,7 @@ subtitle: Spring 2021
 |:------:|:------|:--------:|:------:|----:|
 | ∅   | Sep. 3   |  
 |  I  | Sep. 6   | **Labor Day** |
-|     | Sep. 8   | Adorno, chap. 1, Colón, "Presentación"; "Carta a Santángel"; Anghiera, Cartas 133
+|     | Sep. 8   | Adorno, chap. 1, Colón, "Carta a Santángel"; Anghiera, Cartas 133
 |     | Sep. 10  | Vespucci | | ___
 |  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Prólogo," pp. xiv-xxxii; 5-12 | | 
 |     | Sep. 15  | Las Casas, pp. 12-41 | |  ___
