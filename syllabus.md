@@ -25,7 +25,7 @@ bigimg: /img/4partes.jpg
 # Semana 1 
 ## La "invención" del Nuevo Mundo
 
-- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), Capítulo 1
+- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
 - Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
 - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
@@ -40,31 +40,31 @@ bigimg: /img/4partes.jpg
 # Semana 3
 ##  El discurso de Conquista 
 
-- Adorno & Echeverría, [*Breve historia...*](), Capítulo 3
-- Todorov, [*La Conquista...*]()
-- Hernán Cortés, ["Segunda Carta de Relación"]
+- Adorno & Echeverría, [*Breve historia...*](), cap. 3
+- Todorov, [*La conquista de América: el problema del otro*]() (1997)
+- Hernán Cortés, ["Segunda Carta de Relación"]()
 - [Mapa de Nuremberg]() (Nuremberg, 1524) 
 
 # Semana 4
 ##  La visión de los vencidos
 
 - Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]()
-- Miguel León Portilla, ["Relación de Tlatelolco"]()(1528)
-- Miguel León Portilla, ["Cantos tristes de la Conquista"]()(1570s)
+- Miguel León Portilla, ["Relación de Tlatelolco"]() (1528)
+- Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
 
 # Semana 5 
-## Épicas de la frontera
+## Épica de la frontera
 
-- Alonso de Ercilla y Zúñiga, [La Araucana]()(1569, 1578, 1589)
+- Alonso de Ercilla y Zúñiga, [La Araucana]() (1569, 1578, 1589)
 
-# Semana 66 
+# Semana 6 
 ## La épica vacilante
 
-- Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]
-- Bernal Díaz del Castillo, [Historia verdadera de la conquista de la Nueva España]() (1632)
+- Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]()
+- Bernal Díaz del Castillo, [Historia verdadera de la conquista de la Nueva España, selección]() (1632)
 
 # Semana 7 
-## Devenir Otro
+## Sujetos ex-céntricos 
 
 - Cabeza de Vaca, [*Naufragios*]()
 
