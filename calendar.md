@@ -6,7 +6,7 @@ subtitle: Fall 2021
 
 <br>
 
-| Wk | Date | Reading | Assignment | Presentation|
+| Week | Date | Readings | Assignments | Presentations |
 |:------:|:------|:--------:|:------:|----:|
 | ∅   | Sep. 3   |  
 |  I  | Sep. 6   | **Labor Day** |
