@@ -43,6 +43,7 @@ bigimg: /img/4partes.jpg
 - Adorno & Echeverría, [*Breve historia...*](), Capítulo 3
 - Todorov, [*La Conquista...*]()
 - Hernán Cortés, ["Segunda Carta de Relación"]
+- [Mapa de Nuremberg]() (Nuremberg, 1524) 
 
 # Semana 4
 ##  La visión de los vencidos
