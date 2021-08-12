@@ -8,7 +8,7 @@ subtitle: Fall 2021
 
 | Week | Date | Readings | Assignments | Presentations |
 |:------:|:------|:--------:|:------:|----:|
-| ∅   | Sep. 3   |  
+| ∅   | Sep. 3   | **Introductin** 
 |  I  | Sep. 6   | **Labor Day** |
 |     | Sep. 8   | Adorno, chap. 1, Colón, "Carta a Santángel"; Anghiera, Cartas 133
 |     | Sep. 10  | Vespucci | | ___
