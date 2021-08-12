@@ -19,13 +19,14 @@ bigimg: /img/4partes.jpg
 ## Introduction
 
 - Eliseo Diego, [“Cristobal Colón inventa el Nuevo Mundo”]()
-- Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600]()
+- Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
 - Michel de Certeau, [*La escritura de la historia*, fragmento]()
 
 # Semana 1 
 ## La "invención" del Nuevo Mundo
 
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), Capítulo 1
+- Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
 - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
 
