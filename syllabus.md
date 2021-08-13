@@ -55,7 +55,7 @@ bigimg: /img/4partes.jpg
 # Semana 5 
 ## Épica de la frontera
 
-- Alonso de Ercilla y Zúñiga, [La Araucana]() (1569, 1578, 1589)
+- Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
 
 # Semana 6 
 ## La épica vacilante
