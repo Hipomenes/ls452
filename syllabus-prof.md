@@ -73,9 +73,9 @@ bigimg: /img/4partes.jpg
     - [Worksheet](https://drive.google.com/file/d/1HJxurGFDX5nMubekRUnpgjDQgt2laCtZ/view?usp=sharing)
 
 # Semana 8. 
-## Miradas criollas, historias cruzadas
+## Frontras de agua
 
-- Garcilaso de la Vega, La Florida del Inca
+- Gaspar de Carvajal, [*Descubrimiento del río de las Amazonas*]()
 
 ## Semana 9. Geografías alucinadas
 
