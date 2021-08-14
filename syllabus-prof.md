@@ -63,7 +63,7 @@ bigimg: /img/4partes.jpg
 ## La épica vacilante
 
 - Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]()
-- Bernal Díaz del Castillo, [Historia verdadera de la conquista de la Nueva España, selección]() (1632)
+- Bernal Díaz del Castillo, [*Historia verdadera de la conquista de la Nueva España*, selección]() (1632)
     - [Worksheet](https://drive.google.com/file/d/1AXf2w0slhJ7CflR6sBhR3OqxofZmBINP/view?usp=sharing)
 
 # Semana 7 
