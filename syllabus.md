@@ -66,19 +66,25 @@ bigimg: /img/4partes.jpg
 # Semana 7 
 ## Sujetos ex-céntricos 
 
-- Cabeza de Vaca, [*Naufragios*]()
+- Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
+- [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
 # Semana 8. 
-## Miradas criollas, historias cruzadas
-
-- Garcilaso de la Vega, La Florida del Inca
-
-## Semana 9. Geografías alucinadas
+## Geografías alucinadas
 
 - Fray Marcos de Niza, “Descubrimiento de las siete ciudades de Cíbola"
-- Werner Herzog, Aguire y la Ira de Dios
+- [*Aguire, la ira de Dios*(Dir: Werner Herzog, 1971)]()
 
-## Semana 10. Tránsitos y bilocaciones
+
+# Semana 9. 
+## Miradas locales, horizontes globales
+
+- Garcilaso de la Vega, La Florida del Inca
+    - [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg)
+
+
+# Semana 10. 
+## Espacios desdoblados y múltiples
 
 - Francisco de Aguilera, Vida de la venerable Catherina de San Juan (Puebla, 1688)
 - Informe de Benavides sobre Sor María Ágreda
