@@ -55,12 +55,12 @@ bigimg: /img/4partes.jpg
 - Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
 
 # Semana 5 
-## Épica de la frontera
+## Sujeto épico y paisaje
 
 - Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
 
 # Semana 6 
-## La épica vacilante
+## Zozobra y épica vacilante
 
 - Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]()
 - Bernal Díaz del Castillo, [*Historia verdadera de la conquista de la Nueva España*, selección]() (1632)
