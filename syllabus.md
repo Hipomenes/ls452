@@ -79,7 +79,7 @@ bigimg: /img/4partes.jpg
 # Semana 9. 
 ## Miradas locales, horizontes globales
 
-- Garcilaso de la Vega, La Florida del Inca
+- Bernardo de Balbuena, [Grandeza mexicana]() (1604)
     - [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg)
 
 
