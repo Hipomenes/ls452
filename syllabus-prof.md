@@ -69,29 +69,38 @@ bigimg: /img/4partes.jpg
 # Semana 7 
 ## Sujetos ex-céntricos 
 
-- Cabeza de Vaca, [*Naufragios*]()
+- Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
+- [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
     - [Worksheet](https://drive.google.com/file/d/1HJxurGFDX5nMubekRUnpgjDQgt2laCtZ/view?usp=sharing)
 
 # Semana 8. 
-## Frontras de agua
-
-- Gaspar de Carvajal, [*Descubrimiento del río de las Amazonas*]()
-
-## Semana 9. Geografías alucinadas
+## Geografías alucinadas
 
 - Fray Marcos de Niza, “Descubrimiento de las siete ciudades de Cíbola"
-- Werner Herzog, Aguire y la Ira de Dios
+- [*Aguire, la ira de Dios*(Dir: Werner Herzog, 1971)]()
 
-## Semana 10. Tránsitos y bilocaciones
+
+# Semana 9. 
+## Miradas locales, horizontes globales
+
+- Bernardo de Balbuena, [Grandeza mexicana]() (1604)
+    - [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg)
+    - [Worksheet]()
+
+
+# Semana 10 
+## Sincrotopías
 
 - Francisco de Aguilera, Vida de la venerable Catherina de San Juan (Puebla, 1688)
 - Informe de Benavides sobre Sor María Ágreda
 
-## Semana 11. Vagabundeos planetarios
+# Semana 11 
+## Errancia planetarios
 
 - Sigüenza y Góngora, Infortunios de Alonso Ramírez
 
-## Semana 12. Identidades en tránsito
+# Semana 12. 
+## Identidades en tránsito
 
 - Catalina de Erauso, Historia de la monja alférez escrita por ella misma
 
