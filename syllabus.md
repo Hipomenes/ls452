@@ -20,7 +20,7 @@ bigimg: /img/4partes.jpg
 
 - Eliseo Diego, [“Cristobal Colón inventa el Nuevo Mundo”]()
 - Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
-- Michel de Certeau, [*La escritura de la historia*, fragmento]()
+    - Michel de Certeau, [*La escritura de la historia*, fragmento]()
 
 # Semana 1 
 ## La "invención" del Nuevo Mundo
@@ -28,7 +28,7 @@ bigimg: /img/4partes.jpg
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
 - Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
-- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
+    - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
 
 
 # Semana 2
@@ -41,16 +41,16 @@ bigimg: /img/4partes.jpg
 ##  El discurso de Conquista 
 
 - Adorno & Echeverría, [*Breve historia...*](), cap. 3
-- Todorov, [*La conquista de América: el problema del otro*]() (1997)
 - Hernán Cortés, ["Segunda Carta de Relación"]()
-- [Mapa de Nuremberg]() (Nuremberg, 1524) 
+    - Todorov, [*La conquista de América: el problema del otro*]() (1997)
+    - [Mapa de Nuremberg]() (Nuremberg, 1524) 
 
 # Semana 4
 ##  La visión de los vencidos
 
 - Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]()
 - Miguel León Portilla, ["Relación de Tlatelolco"]() (1528)
-- Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
+    - Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
 
 # Semana 5 
 ## Épica de la frontera
@@ -67,7 +67,7 @@ bigimg: /img/4partes.jpg
 ## Sujetos ex-céntricos 
 
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
-- [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
+    - [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
 # Semana 8. 
 ## Geografías alucinadas
