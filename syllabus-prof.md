@@ -18,9 +18,11 @@ bigimg: /img/4partes.jpg
 # Semana ∅
 ## Introduction
 
-- Eliseo Diego, [“Cristobal Colón inventa el Nuevo Mundo”]()
-- Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
-- Michel de Certeau, [*La escritura de la historia*, fragmento]()
+Introducción a la clase. Descripción de los temas, lecturas e ideas principales. Detalles del curso. A cotninuación, realizar una única actvidad. 
+
+1. Utilizando la "Alegoría de América" de Stradanus, dividir la clase en grupos y analizar detalladamente, identificar todos los elementos. Luego, en grupo, tratar de imaginar el sentido de la imagen. Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
+2. Leer en grupo el texto de Michel de Certeau, [*La escritura de la historia*, fragmento]()
+
 
 # Semana 1 
 ## La "invención" del Nuevo Mundo
@@ -28,7 +30,7 @@ bigimg: /img/4partes.jpg
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
 - Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
-- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
+    - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
     - [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing)
 
 
