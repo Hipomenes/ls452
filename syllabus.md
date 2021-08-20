@@ -18,9 +18,7 @@ bigimg: /img/4partes.jpg
 # Semana ∅
 ## Introduction
 
-- Eliseo Diego, [“Cristobal Colón inventa el Nuevo Mundo”]()
-- Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
-    - Michel de Certeau, [*La escritura de la historia*, fragmento]()
+- Lecturas y actividades en clase.
 
 # Semana 1 
 ## La "invención" del Nuevo Mundo
