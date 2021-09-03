@@ -34,7 +34,7 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, *Breve historia*, “Las polémicas sobre la posesión de las Indias” (cap. 3)
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
-    - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598) <i class="fa-solid fa-map"></i>
+    - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
 ##  El discurso de Conquista 
@@ -47,7 +47,7 @@ bigimg: /img/4partes.jpg
 # Semana 4
 ##  La visión de los vencidos
 
-- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]()
+- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]() (1570s)
 - Miguel León Portilla, ["Relación de Tlatelolco"]() (1528)
     - Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
 
@@ -70,31 +70,33 @@ bigimg: /img/4partes.jpg
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
 - 🎥︁ [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
-# Semana 8. 
-## Geografías alucinadas
+# Semana 8 
+### Geografías alucinadas
 
 - Fray Marcos de Niza, “Descubrimiento de las siete ciudades de Cíbola"
-- 🎥︁ [*Aguire, la ira de Dios* (Dir: Werner Herzog, 1971)]()
+- 🎥︁ [*Aguirre, la ira de Dios* (Dir: Werner Herzog, 1971)]()
 
 
-# Semana 9. 
+# Semana 9 
 ## Miradas locales, horizontes globales
 
+- Adorno & Echeverría, *Breve historia*, “Plenitud barroca” (cap. 5)    
 - Bernardo de Balbuena, [Grandeza mexicana]() (1604)
     - [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg)
 
-
-# Semana 10. 
+# Semana 10 
 ## Espacios desdoblados y múltiples
 
-- Francisco de Aguilera, Vida de la venerable Catherina de San Juan (Puebla, 1688)
-- Informe de Benavides sobre Sor María Ágreda
+- Francisco de Aguilera, *Vida de la venerable Catherina de San Juan* (Puebla, 1688)
+- Benavides, *Informe Sor María Ágreda*
 
-## Semana 11. Vagabundeos planetarios
+# Semana 11
+## Vagabundeos planetarios
 
 - Sigüenza y Góngora, Infortunios de Alonso Ramírez
 
-## Semana 12. Identidades en tránsito
+# Semana 12
+## Identidad y género en tránsito
 
 - 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944) <i class="fa-solid fa-camera-movie"></i>
 
