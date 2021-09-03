@@ -1,5 +1,13 @@
-# Fiesta y enigma
+# Conquistadors and Castaways
 
-Backend for the course **Fiesta y enigma** (LS 576).
+Conquistadors and Castaways: Literary 
+Discourse in Colonial Latin America
 
-DHC
+David H. Colmenares
+dhcg@bu.edu
+
+
+Fall 2021
+eop 262 
+mwf, 12:20 - 1:10pm | Office Hours:  mw, 2:30 - 4:30pm.
+
