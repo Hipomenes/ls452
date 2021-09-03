@@ -23,8 +23,8 @@ bigimg: /img/4partes.jpg
 # Semana 1 
 ## La "invención" del Nuevo Mundo
 
-- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
-- Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
+- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), “Primeros encuentros, primeras dudas” (cap. 1)
+- Cristobal Colón, ["Carta a Luis de Santángel (Febrero 15, 1493)"]() (1493)
 - Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
     - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
 
@@ -32,13 +32,14 @@ bigimg: /img/4partes.jpg
 # Semana 2
 ## Malestares imperiales
 
+- Adorno & Echeverría, *Breve historia*, “Las polémicas sobre la posesión de las Indias” (cap. 3)
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
     - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
 ##  El discurso de Conquista 
 
-- Adorno & Echeverría, [*Breve historia...*](), cap. 3
+- Adorno & Echeverría, *Breve historia*, “La conquista de México” (cap. 4)
 - Hernán Cortés, ["Segunda Carta de Relación"]()
     - Todorov, [*La conquista de América: el problema del otro*]() (1997)
     - [Mapa de Nuremberg]() (Nuremberg, 1524) 
