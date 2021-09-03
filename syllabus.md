@@ -34,7 +34,7 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, *Breve historia*, “Las polémicas sobre la posesión de las Indias” (cap. 3)
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
-    - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
+    - 🎨︁ [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
 ##  El discurso de Conquista 
@@ -68,14 +68,13 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, *Breve historia*, "Una odisea española en Norteamérica" (cap. 5) 
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
-
-<i class="fa-solid fa-camera-movie"></i> [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
+- 🎥︁ [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
 # Semana 8. 
 ## Geografías alucinadas
 
 - Fray Marcos de Niza, “Descubrimiento de las siete ciudades de Cíbola"
-- [*Aguire, la ira de Dios*(Dir: Werner Herzog, 1971)]()
+- 🎥︁ [*Aguire, la ira de Dios* (Dir: Werner Herzog, 1971)]()
 
 
 # Semana 9. 
@@ -97,7 +96,7 @@ bigimg: /img/4partes.jpg
 
 ## Semana 12. Identidades en tránsito
 
-- Catalina de Erauso, Historia de la monja alférez escrita por ella misma
+- 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944)
 
 # Semana 13. 
 ## Legados coloniales y posibilidades futuras
