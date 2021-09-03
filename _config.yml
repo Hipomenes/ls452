@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Name of website
-title: Fiesta y enigma
+title: Conquistadors and Castaways
 
 # Short description of your site
-description: La literatura del México virreinal
+description: Literary Discourse in Colonial Latin America
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -37,7 +37,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/sis.png"
+avatar: "/img/chimali.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -86,8 +86,8 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm 
-  spotify: palinuro/playlist/3Cw2zYCs6r1VnJLWCm2cI4?si=Z4VoBQCLSoKbgFeXqZSXpA
+#  youtube: playlist?list=PLiHNaBC9keLdsq7PzUJWptaxgfgjxM1sm 
+#  spotify: palinuro/playlist/3Cw2zYCs6r1VnJLWCm2cI4?si=Z4VoBQCLSoKbgFeXqZSXpA
   zoom: 97105967650?pwd=Qmd6d3RNaCt0QTN4ZnVQcjlybXg0UT09
 #  telephone: bostonu.zoom.us/j/7269706673
 #  steam: deanat78
