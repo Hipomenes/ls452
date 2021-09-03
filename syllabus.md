@@ -41,7 +41,6 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, *Breve historia*, "La conquista de México" (cap. 4)
 - Hernán Cortés, ["Segunda Carta de Relación"]()
-    - Todorov, [*La conquista de América: el problema del otro*]() (1997)
     - [Mapa de Nuremberg]() (Nuremberg, 1524) 
 
 # Semana 4
@@ -98,12 +97,13 @@ bigimg: /img/4partes.jpg
 # Semana 12
 ## Identidad y género en tránsito
 
-- 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944) <i class="fa-solid fa-camera-movie"></i>
+- 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944)
 
-# Semana 13. 
+# Semana 13 
 ## Legados coloniales y posibilidades futuras
 
 - Conferencias y eventos contemporáneos
 
-## Semana 14. Taller de trabajos finales
+# Semana 14
+## Taller de trabajos finales
 
