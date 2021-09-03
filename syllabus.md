@@ -68,7 +68,8 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, *Breve historia*, "Una odisea española en Norteamérica" (cap. 5) 
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
-    <i class="fa-solid fa-camera-movie"></i> [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
+
+<i class="fa-solid fa-camera-movie"></i> [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
 # Semana 8. 
 ## Geografías alucinadas
