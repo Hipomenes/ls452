@@ -10,26 +10,26 @@ subtitle: Fall 2021
 |:------:|:------|:--------:|:------:|----:|
 | ∅   | Sep. 3   | **Introductin** 
 |  I  | Sep. 6   | **Labor Day** |
-|     | Sep. 8   | Adorno, chap. 1, Colón, "Carta a Santángel"; Anghiera, Cartas 133
-|     | Sep. 10  | Vespucci | | ____
+|     | Sep. 8   | Adorno, chap. 1; Colón, "Carta a Santángel"
+|     | Sep. 10  | Vespucci | | 
 |  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Prólogo," pp. xiv-xxxii; 5-12 | | 
-|     | Sep. 15  | Las Casas, pp. 12-41 | |  ____
+|     | Sep. 15  | Las Casas, pp. 12-41 | |  
 |     | Sep. 17  | Las Casas, pp. 98-115; 153-9 
 | III | Sep. 20  | Adorno, chap. 4; Todorov; Cortés | | 
-|     | Sep. 22  | Cortés | | ____
+|     | Sep. 22  | Cortés | | 
 |     | Sep. 24  | Cortés
-| IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | ____
+| IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | 
 |     | Sep. 29  | León-Portilla, chap. XIV |
-|     | Oct. 1   | León-Portilla, chap. XV | | ____
-| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | | ____
+|     | Oct. 1   | León-Portilla, chap. XV | | 
+| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | | 
 |     | Oct. 6   | Ercilla, Canto I
-|     | Oct. 8   | Erccilla, Canto XXIV | | ____
+|     | Oct. 8   | Erccilla, Canto XXIV | | 
 | VI  | Oct. 11  | **Indigenous Peoples' Day** 
 |     | Oct. 13  | Fuentes, pp. 72-83 & 88-96; Bernal, "Prólogo" & chaps. 27-29
-|     | Oct. 15  | Bernal, chaps. 36-37, 82-3 & 91 | | _____
-| VII | Oct. 18  |    | | 
-|     | Oct. 20  | 
-|     | Oct. 22  | 
+|     | Oct. 15  | Bernal, chaps. 36-37, 82-3 & 91 | | 
+| VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca   | | 
+|     | Oct. 20  | Cabeza de Vaca | | 
+|     | Oct. 22  | Echeverría
 | VIII| Oct. 25  |    | | 
 |     | Oct. 27  | 
 |     | Oct. 29  | 
@@ -42,10 +42,10 @@ subtitle: Fall 2021
 | XI  | Nov. 15  |    | | 
 |     | Nov. 17  | 
 |     | Nov. 19  | 
-| XII | Nov. 22 (*Remote Class*) |   | | _____
+| XII | Nov. 22 (*Remote Class*) |   | |
 |     | Nov. 24  | **Thanksgiving**
 |     | Nov. 26  | **Thanksgiving**
-|XIII | Nov. 29  |    | | ____
+|XIII | Nov. 29  |    | | 
 |     | Dec. 1   | 
 |     | Dec. 3   | 
 | XIV | Dec. 6   | Taller de Trabajos Finales I
