@@ -59,6 +59,7 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 # Semana 5 
 ## Sujeto épico y paisaje
 
+- Adorno & Echeverría, *Breve historia*, “Hazañas épicas” (cap. 6)
 - Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
 
 # Semana 6 
