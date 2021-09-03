@@ -25,8 +25,7 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), “Primeros encuentros, primeras dudas” (cap. 1)
 - Cristobal Colón, ["Carta a Luis de Santángel (Febrero 15, 1493)"]() (1493)
-- Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
-    - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
+- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
 
 
 # Semana 2
