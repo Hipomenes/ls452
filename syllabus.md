@@ -34,7 +34,7 @@ bigimg: /img/4partes.jpg
 
 - Adorno & Echeverría, *Breve historia*, “Las polémicas sobre la posesión de las Indias” (cap. 3)
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
-    - ︁ [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
+    - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598) <i class="fa-solid fa-map"></i>
    
 # Semana 3
 ##  El discurso de Conquista 
@@ -96,7 +96,7 @@ bigimg: /img/4partes.jpg
 
 ## Semana 12. Identidades en tránsito
 
-- 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944)
+- 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944) <i class="fa-solid fa-camera-movie"></i>
 
 # Semana 13. 
 ## Legados coloniales y posibilidades futuras
