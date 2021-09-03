@@ -39,7 +39,7 @@ bigimg: /img/4partes.jpg
 # Semana 3
 ##  El discurso de Conquista 
 
-- Adorno & Echeverría, *Breve historia*, “La conquista de México” (cap. 4)
+- Adorno & Echeverría, *Breve historia*, "La conquista de México" (cap. 4)
 - Hernán Cortés, ["Segunda Carta de Relación"]()
     - Todorov, [*La conquista de América: el problema del otro*]() (1997)
     - [Mapa de Nuremberg]() (Nuremberg, 1524) 
@@ -54,6 +54,7 @@ bigimg: /img/4partes.jpg
 # Semana 5 
 ## Épica de la frontera
 
+- Adorno & Echeverría, *Breve historia*, “Hazañas épicas” (cap. 6)
 - Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
 
 # Semana 6 
@@ -65,6 +66,7 @@ bigimg: /img/4partes.jpg
 # Semana 7 
 ## Sujetos ex-céntricos 
 
+- Adorno & Echeverría, *Breve historia*, "Una odisea española en Norteamérica" (cap. 5) 
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
     - [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
