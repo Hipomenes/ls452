@@ -4,14 +4,14 @@ title: Readings
 bigimg: /img/cuauhquecholan.jpg
 ---
 
+<br>
+
 # Unidades y temas
 {: .no_toc}
 
 * TOC
 {:toc}
 
-<br>
-<hr>
 <br>
 <br>
 
@@ -38,7 +38,7 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 3
 ###  El discurso de Conquista 
 
-- Adorno & Echeverría, *Breve historia*, "La conquista de México" (cap. 4)
+- Adorno & Echeverría, *Breve historia* &ensp; <i class="far fa-bookmark"></i> "La conquista de México" (cap. 4)
 - Hernán Cortés, ["Segunda Carta de Relación"]()
     - [Mapa de Nuremberg]() (Nuremberg, 1524) 
 
@@ -52,7 +52,7 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 5 
 ### Épica de la frontera
 
-- Adorno & Echeverría, *Breve historia*, “Hazañas épicas” (cap. 6)
+- Adorno & Echeverría, *Breve historia*  &ensp; <i class="far fa-bookmark"></i> “Hazañas épicas” (cap. 6)
 - Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
 
 # Semana 6 
@@ -64,7 +64,7 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 7 
 ### Sujetos ex-céntricos 
 
-- Adorno & Echeverría, *Breve historia*, "Una odisea española en Norteamérica" (cap. 5) 
+- Adorno & Echeverría, *Breve historia*  &ensp; <i class="far fa-bookmark"></i> "Una odisea española en Norteamérica" (cap. 5) 
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
 - 🎥︁ [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
@@ -78,7 +78,7 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 9 
 ### Miradas locales, horizontes globales
 
-- Adorno & Echeverría, *Breve historia*, “Plenitud barroca” (cap. 5)    
+- Adorno & Echeverría, *Breve historia*  &ensp; <i class="far fa-bookmark"></i> “Plenitud barroca” (cap. 5)    
 - Bernardo de Balbuena, [Grandeza mexicana]() (1604)
     - [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg)
 
