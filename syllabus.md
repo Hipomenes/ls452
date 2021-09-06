@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings
-bigimg: /img/4partes.jpg
+bigimg: https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg
 ---
 
 # Unidades y temas
