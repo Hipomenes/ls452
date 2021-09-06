@@ -23,7 +23,7 @@ bigimg: /img/4partes.jpg
 # Semana 1 
 ### La "invención" del Nuevo Mundo
 
-- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcSj_kv94qdLvZgXz9u0zCsBiQozh14g5616iXQwmUjEyQ?e=0Rnt0T), “Primeros encuentros, primeras dudas” (pp. 27-34).
+- Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcSj_kv94qdLvZgXz9u0zCsBiQozh14g5616iXQwmUjEyQ?e=0Rnt0T). &ensp; <i class="far fa-bookmark"></i> “Primeros encuentros, primeras dudas” (pp. 27-34).
 - Cristobal Colón, ["Carta a Luis de Santángel (Febrero 15, 1493)"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYaAr3TAvTNFg9Zbu7c502wBpiWryMnR9IGw8bfDF3LTTQ?e=QbS256) (1493)
 - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYaAr3TAvTNFg9Zbu7c502wBpiWryMnR9IGw8bfDF3LTTQ?e=QbS256)(1503)
 
@@ -31,7 +31,7 @@ bigimg: /img/4partes.jpg
 # Semana 2
 ### Malestares imperiales
 
-- Adorno & Echeverría, *Breve historia*, “Las polémicas sobre la posesión de las Indias” (cap. 3)
+- Adorno & Echeverría, *Breve historia*. &ensp; <i class="far fa-bookmark"></i> “Las polémicas sobre la posesión de las Indias” (cap. 3)
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
     - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
