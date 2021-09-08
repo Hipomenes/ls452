@@ -29,11 +29,15 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
-- ~~Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)~~
-- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
+- Pietro Martire d'Anghiera, [Cartas Nº 133, 134](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
+- ~~Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)~~
     - Discusión sobre preguntas, en grupos pequeños: 1) Geografía local-global, 2) Mito, credibilidad, observación, 3) Naturaleza, 4) Geografía humana / etnografía.
     - [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing) sobre imágenes del Descubrimiento.
-    
+  
+### Notas
+
+- En general, la carta a Santángel basta y sobra para dos clases. Al final decidí añadir dos cartas de Pietro Martire, sobre quien además Adorno tiene mucho que decir.
+- Mis comentarios iniciales versaron sobre tres temas: 1) El destinatario (Santángel) y lo que nos dice de la empresa colombian, 2) Texto fundacional por múltiples motivos, y 3) La lengua colombina que ya no es solamente el castellano sino el español trasatlántico.
 
 
 # Semana 2
