@@ -30,8 +30,10 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
 - ~~Pietro Martire d'Anghiera, [Cartas Nº 133](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)~~
-    - Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
-    - [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing)
+- Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)
+    - Discusión sobre preguntas, en grupos pequeños: 1) Geografía local-global, 2) Mito, credibilidad, observación, 3) Naturaleza, 4) Geografía humana / etnografía.
+    - [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing) sobre imágenes del Descubrimiento.
+    
 
 
 # Semana 2
