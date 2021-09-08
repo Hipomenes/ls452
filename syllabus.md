@@ -26,7 +26,7 @@ bigimg: /img/cuauhquecholan.jpg
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcSj_kv94qdLvZgXz9u0zCsBiQozh14g5616iXQwmUjEyQ?e=0Rnt0T). &ensp; <i class="far fa-bookmark"></i> “Primeros encuentros, primeras dudas” (pp. 27-34).
 - Cristobal Colón, ["Carta a Luis de Santángel (Febrero 15, 1493)"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYaAr3TAvTNFg9Zbu7c502wBpiWryMnR9IGw8bfDF3LTTQ?e=QbS256) (1493)
 - Pietro Martire d'Anghiera, [*Epistolario*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EW8T-leqcXFClRZCaNVsKBwBB_D3Y0u89LmuDkFxxtS2_A?e=U9QNtD)
-&ensp; <i class="far fa-bookmark"></i> “Carta No. 133 y 134” \
+&ensp; <i class="far fa-bookmark"></i> “Carta No. 133 y 134” 
 
 # Semana 2
 ### Malestares imperiales
