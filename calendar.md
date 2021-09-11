@@ -12,9 +12,9 @@ subtitle: Fall 2021
 |  I  | Sep. 6   | **Labor Day** |
 |     | Sep. 8   | Adorno, chap. 1; Colón, "Carta a Santángel"
 |     | Sep. 10  | Anghiera | | 
-|  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Prólogo," pp. xiv-xxxii; 5-12 | | 
-|     | Sep. 15  | Las Casas, pp. 12-41 | |  
-|     | Sep. 17  | Las Casas, pp. 98-115; 153-9 
+|  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Argumento" (69-70) y "Prólogo" (71-73) | | 
+|     | Sep. 15  | Las Casas, 74-81 | |  
+|     | Sep. 17  | Las Casas, 136-143 | First Assignment | 
 | III | Sep. 20  | Adorno, chap. 4; Todorov; Cortés | | 
 |     | Sep. 22  | Cortés | | 
 |     | Sep. 24  | Cortés
