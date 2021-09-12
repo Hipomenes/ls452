@@ -13,8 +13,8 @@ subtitle: Fall 2021
 |     | Sep. 8   | Adorno, chap. 1; Colón, "Carta a Santángel"
 |     | Sep. 10  | Anghiera | | 
 |  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Argumento" (69-70) y "Prólogo" (71-73) | | 
-|     | Sep. 15  | Las Casas, 74-81 | |  
-|     | Sep. 17  | Las Casas, 136-143 | [1ª Composición](https://dhcolmenares.net/ls452/assignments/) | 
+|     | Sep. 15  | Las Casas, 74-81; 136-143 | |  
+|     | Sep. 17  | Sermón de Montesinos  | [1ª Composición](https://dhcolmenares.net/ls452/assignments/) | 
 | III | Sep. 20  | Adorno, chap. 4; Todorov; Cortés | | 
 |     | Sep. 22  | Cortés | | 
 |     | Sep. 24  | Cortés
