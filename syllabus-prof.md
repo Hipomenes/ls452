@@ -38,13 +38,21 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 
 - En general, la carta a Santángel basta y sobra para dos clases. Al final decidí añadir dos cartas de Pietro Martire, sobre quien además Adorno tiene mucho que decir.
 - Mis comentarios iniciales versaron sobre tres temas: 1) El destinatario (Santángel) y lo que nos dice de la empresa colombian, 2) Texto fundacional por múltiples motivos, y 3) La lengua colombina que ya no es solamente el castellano sino el español trasatlántico.
+- Surgió un tema fascinante en clase: la dimensión estoica de las cartas de Anghiera y los posibles inicios de una crítica al colonialismo ya desde esos textos. Explorar más a partir de Las Casas.
 
 
 # Semana 2
 ## Malestares imperiales
 
-- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
-    - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
+- Adorno & Echeverría, *Breve historia*. &ensp; <i class="far fa-bookmark"></i> “Las polémicas sobre la posesión de las Indias” (pp. 49-55)
+- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EROXXtX5rRpBipr5h7EQZQMB0JXsPu7HVYA1OD25IZZm-g?e=nFArRv) (1540s)
+- [Sermón profético del dominico Antón Montesinos en defensa de los indios](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQZM1rSG12JCrckn8zCiRLIBRiLaa6Nt-Wncbn_3DVBaGQ?e=1z7D2h) (1511)
+    - ~~[Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)~~ Dudo que de tiempo de usarlo.
+
+### Notas
+
+- Al final de esta semana hay una primera composición sobre la comparación de las fuentes primarias. 
+- En clase, hablar de Enrique Dussel.
    
 # Semana 3
 ##  El discurso de Conquista 
