@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Professor's Syllabus
-bigimg: https://media1.thehungryjpeg.com/thumbs2/800_113952_58c7e6ff5df320b9495025c05bf6a1b0410b848e_12-linear-geometric-patterns-part-1.jpg
+title: Temario del profesor
+bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F42304%2Fscreenshots%2F5834545%2Fgeometric_01_4x.jpg&f=1&nofb=1
 ---
 
 # Unidades y temas
