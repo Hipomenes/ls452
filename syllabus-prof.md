@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temario del profesor
-bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F42304%2Fscreenshots%2F5834545%2Fgeometric_01_4x.jpg&f=1&nofb=1
+bigimg: http://htc-wallpaper.com/wp-content/uploads/2015/03/Colorful-geometric-patterns.jpg
 ---
 
 # Unidades y temas
