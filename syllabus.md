@@ -32,8 +32,8 @@ bigimg: /img/cuauhquecholan.jpg
 ### Malestares imperiales
 
 - Adorno & Echeverría, *Breve historia*. &ensp; <i class="far fa-bookmark"></i> “Las polémicas sobre la posesión de las Indias” (pp. 49-55)
-- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
-- [Sermón profético del dominico Antón Montesinos en defensa de los indios](montesinos) (1511)
+- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EROXXtX5rRpBipr5h7EQZQMB0JXsPu7HVYA1OD25IZZm-g?e=nFArRv) (1540s)
+- [Sermón profético del dominico Antón Montesinos en defensa de los indios](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQZM1rSG12JCrckn8zCiRLIBRiLaa6Nt-Wncbn_3DVBaGQ?e=1z7D2h) (1511)
     - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
