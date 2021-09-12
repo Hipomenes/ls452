@@ -33,6 +33,7 @@ bigimg: /img/cuauhquecholan.jpg
 
 - Adorno & Echeverría, *Breve historia*. &ensp; <i class="far fa-bookmark"></i> “Las polémicas sobre la posesión de las Indias” (pp. 49-55)
 - Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://drive.google.com/open?id=16fXW5kJKYfivZrQdTBea9kLmKCl7F2RK) (1540s)
+- [Sermón profético del dominico Antón Montesinos en defensa de los indios](montesinos) (1511)
     - [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
    
 # Semana 3
