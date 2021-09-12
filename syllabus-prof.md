@@ -52,7 +52,7 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 ### Notas
 
 - Al final de esta semana hay una primera composición sobre la comparación de las fuentes primarias. 
-- En clase, hablar de Enrique Dussel.
+- En clase, hablar de Enrique Dussel: Las Casas como «el primer crítico frontal de la modernidad».
    
 # Semana 3
 ##  El discurso de Conquista 
