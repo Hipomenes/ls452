@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professor's Syllabus
-bigimg: /img/4partes.jpg
+bigimg: https://media1.thehungryjpeg.com/thumbs2/800_113952_58c7e6ff5df320b9495025c05bf6a1b0410b848e_12-linear-geometric-patterns-part-1.jpg
 ---
 
 # Unidades y temas
