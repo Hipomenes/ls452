@@ -12,12 +12,12 @@ subtitle: Fall 2021
 |  I  | Sep. 6   | **Labor Day** |
 |     | Sep. 8   | Adorno, chap. 1; Colón, "Carta a Santángel"
 |     | Sep. 10  | Anghiera | | 
-|  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Argumento" (69-70) y "Prólogo" (71-73) | | 
-|     | Sep. 15  | Las Casas, 74-81; 136-143 | |  
+|  II | Sep. 13  | Adorno, chap. 3; Las Casas, "Argumento" (pp. 69-70) y "Prólogo" (pp. 71-73) | | 
+|     | Sep. 15  | Las Casas, pp. 74-81 y 136-143 | |  
 |     | Sep. 17  | Sermón de Montesinos  | [1ª Composición](https://dhcolmenares.net/ls452/assignments/) | 
-| III | Sep. 20  | Adorno, chap. 4; Todorov; Cortés | | 
-|     | Sep. 22  | Cortés | | 
-|     | Sep. 24  | Cortés
+| III | Sep. 20  | Adorno, chap. 4; Cortés, pp. 1-4  | | 
+|     | Sep. 22  | Cortés, pp. 4-14 | | 
+|     | Sep. 24  | Cortés, pp. 15-24 || 
 | IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | 
 |     | Sep. 29  | León-Portilla, chap. XIV |
 |     | Oct. 1   | León-Portilla, chap. XV | | 
