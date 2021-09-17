@@ -39,8 +39,7 @@ bigimg: /img/cuauhquecholan.jpg
 ###  El discurso de Conquista 
 
 - Adorno & Echeverría, *Breve historia* &ensp; <i class="far fa-bookmark"></i> "La conquista de México" (pp. 56-70)
-- Hernán Cortés, ["Segunda Carta de Relación"]()
-    - [Mapa de Nuremberg]() (Nuremberg, 1524) 
+- Hernán Cortés, ["Segunda Carta de Relación"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EehpiRsvJpNJt1dp9f6adiQBqhJ8gHyioOzGmIiEMlduqg?e=kKIhrr)
 
 # Semana 4
 ###  La visión de los vencidos
