@@ -29,4 +29,13 @@ Tu argumentación debe basarse en **evidencia textual** y no en ideas generales,
 
 <br>
 
+# Segunda Composición
+
+En esta ocasión, debes escribir un análisis literario o *close reading* de alguna de las fuentes indígenas que hemos leído. (Para saber cómo hacer un análisis literario, puedes consultar alguna de estas guías: ["Notes on Close Reading"](https://drive.google.com/file/d/1LUr8_rCby7gGPWNbtF5unm52hr5_KoLr/view?usp=sharing); ["How to Do a Close Reading"](https://drive.google.com/file/d/1fTVtJ3V1ghALOeWAGlDq7ZxT9qWCnlpx/view?usp=sharing) o ["Close Reading"](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_about_fiction/index.html).) 
+
+Comienza por elegir alguno de los textos indígenas que hemos leído. Puede ser un texto completo o una sección que te parezca interesante. Si se trata de un texto completo, puedes rastrear un tema a lo largo del texto, o indentificar, patrones o repeticiones significativas. También puedes concentrarte en un pasaje sugerente, enigmático o rico en términos o ideas. Comienza situando el pasaje o tema elegido en el contexto de la obra, y a continuación realiza un análisis a nivel retórico y estilístico (pensando, por ejemplo, en el tono, las imágenes o metáforas, el lenguaje, etc.) así como las ideas o contenido del texto. Puedes citar frases, términos o versos, pero no debes citar párrafos enteros.
+
+pd. Si incluyes en tu ensayo el análisis de un término en lengua nahuatl utilizando el [Nahuatl Dictionary](https://nahuatl.uoregon.edu/) o el [Gran Diccionario de Náhuatl](https://gdn.iib.unam.mx/), recibirás un punto extra y una sorpresa.
+
+Extensión: 800 a 1000 palabras. 
 
