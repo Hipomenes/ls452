@@ -21,7 +21,7 @@ subtitle: Fall 2021
 | IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | 
 |     | Sep. 29  | León-Portilla, chap. XIV (pp. 131-150) |
 |     | Oct. 1   | León-Portilla, chap. XV | (pp 151-155) | 
-| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | [2ª Composición]() | 
+| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
 |     | Oct. 6   | Ercilla, Canto I
 |     | Oct. 8   | Erccilla, Canto XXIV | | 
 | VI  | Oct. 11  | **Indigenous Peoples' Day** 
