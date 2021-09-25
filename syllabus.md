@@ -44,7 +44,7 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 4
 ###  La visión de los vencidos
 
-- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]() (1570s)
+- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s)
 - Miguel León Portilla, ["Relación de Tlatelolco"]() (1528)
     - Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
 
