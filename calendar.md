@@ -19,7 +19,7 @@ subtitle: Fall 2021
 |     | Sep. 22  | Cortés, pp. 4-14 | | 
 |     | Sep. 24  | Cortés, pp. 15-24 || 
 | IV  | Sep. 27  | Tezozomoc, pp. 3-22  | | 
-|     | Sep. 29  | León-Portilla, chap. XIV (pp. 131-150) |
+|     | Sep. 29  | ~~León-Portilla, chap. XIV (pp. 131-150)~~ |
 |     | Oct. 1   | León-Portilla, chap. XV | (pp 151-155) | 
 | V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
 |     | Oct. 6   | Ercilla, Canto I
