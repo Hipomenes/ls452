@@ -45,7 +45,7 @@ bigimg: /img/cuauhquecholan.jpg
 ###  La visión de los vencidos
 
 - Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s)
-- ~~Miguel León Portilla, ["Relación de la Conquista (1528) por informantes anónimos de Tlatelolco"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=QobbG1) (1528)
+- ~~Miguel León Portilla, ["Relación de la Conquista (1528) por informantes anónimos de Tlatelolco"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=QobbG1) (1528)~~
 - Miguel León Portilla, ["Cantos tristes de la Conquista"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=QobbG1) (1570s)
 
 # Semana 5 
