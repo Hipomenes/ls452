@@ -42,11 +42,10 @@ bigimg: /img/cuauhquecholan.jpg
 - Hernán Cortés, ["Segunda Carta de Relación"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EehpiRsvJpNJt1dp9f6adiQBqhJ8gHyioOzGmIiEMlduqg?e=kKIhrr)
 
 # Semana 4
-###  La visión de los vencidos
+###  Las otras conquistas
 
 - Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s)
-- ~~Miguel León Portilla, ["Relación de la Conquista (1528) por informantes anónimos de Tlatelolco"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=QobbG1) (1528)~~
-- Miguel León Portilla, ["Cantos tristes de la Conquista"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=QobbG1) (1570s)
+- [Códice Boturini o tira de la peregrinación.](http://codiceboturini.inah.gob.mx/home.php)
 
 # Semana 5 
 ### Épica de la frontera
