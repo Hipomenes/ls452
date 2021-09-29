@@ -25,7 +25,7 @@ subtitle: Fall 2021
 |     | Oct. 6   | Ercilla, Canto I
 |     | Oct. 8   | Erccilla, Canto XXIV | | 
 | VI  | Oct. 11  | **Indigenous Peoples' Day** 
-|     | Oct. 13  | Fuentes, pp. 72-83 & 88-96; Bernal, "Prólogo" & chaps. 27-29
+|     | Oct. 13  | Evento cultural [TBA]
 |     | Oct. 15  | *No hay lecturas* | **Midterm** | 
 | VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca   | | 
 |     | Oct. 20  | Cabeza de Vaca | | 
