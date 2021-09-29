@@ -26,14 +26,14 @@ subtitle: Fall 2021
 |     | Oct. 8   | Erccilla, Canto XXIV | | 
 | VI  | Oct. 11  | **Indigenous Peoples' Day** 
 |     | Oct. 13  | Fuentes, pp. 72-83 & 88-96; Bernal, "Prólogo" & chaps. 27-29
-|     | Oct. 15  | Bernal, chaps. 36-37, 82-3 & 91 | | 
+|     | Oct. 15  | *No hay lecturas* | **Midterm** | 
 | VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca   | | 
 |     | Oct. 20  | Cabeza de Vaca | | 
 |     | Oct. 22  | Echeverría
-| VIII| Oct. 25  |    | **Midterm** | 
+| VIII| Oct. 25  |    | [3ªComposición]()  | 
 |     | Oct. 27  | 
 |     | Oct. 29  | 
-| IX  | Nov. 1   |    |[3ªComposición]() | 
+| IX  | Nov. 1   |    || 
 |     | Nov. 3   | 
 |     | Nov. 5   | 
 | X   | Nov. 8   |    | | 
