@@ -18,9 +18,9 @@ subtitle: Fall 2021
 | III | Sep. 20  | Adorno, chap. 4; Cortés, pp. 1-4  | | 
 |     | Sep. 22  | Cortés, pp. 4-14 | | 
 |     | Sep. 24  | Cortés, pp. 15-24 || 
-| IV  | Sep. 27  | Tezozomoc, pp. 3-25  | | 
-|     | Sep. 29  | Tezozomoc, pp. 3-25 |
-|     | Oct. 1   | Códice Boturini |   | 
+| IV  | Sep. 27  | Tezozomoc, §1-8  | | 
+|     | Sep. 29  | Tezozomoc, §9-34 |
+|     | Oct. 1   | Cantos tristes (pp. 151-155) |   | 
 | V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
 |     | Oct. 6   | Ercilla, Canto I
 |     | Oct. 8   | Erccilla, Canto XXIV | | 
