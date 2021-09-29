@@ -39,10 +39,10 @@ subtitle: Fall 2021
 | X   | Nov. 8   |    | | 
 |     | Nov. 10  | 
 |     | Nov. 12  | 
-| XI  | Nov. 15  |    | | 
+| XI  | Nov. 15  |    | [4ª Composición]() | 
 |     | Nov. 17  | 
 |     | Nov. 19  | 
-| XII | Nov. 22 (*Remote Class*) |   | [4ª Composición]() | 
+| XII | Nov. 22 (*Remote Class*) |   | Propuesta trabajo final | 
 |     | Nov. 24  | **Thanksgiving**
 |     | Nov. 26  | **Thanksgiving**
 |XIII | Nov. 29  |    | | 
