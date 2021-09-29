@@ -36,16 +36,16 @@ bigimg: /img/cuauhquecholan.jpg
 - [Sermón profético del dominico Antón Montesinos en defensa de los indios](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQZM1rSG12JCrckn8zCiRLIBRiLaa6Nt-Wncbn_3DVBaGQ?e=1z7D2h) (1511)
    
 # Semana 3
-###  El discurso de Conquista 
+###  Discursos de la Conquista
 
 - Adorno & Echeverría, *Breve historia* &ensp; <i class="far fa-bookmark"></i> "La conquista de México" (pp. 56-70)
 - Hernán Cortés, ["Segunda Carta de Relación"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EehpiRsvJpNJt1dp9f6adiQBqhJ8gHyioOzGmIiEMlduqg?e=kKIhrr)
 
 # Semana 4
-###  Las otras conquistas
+###  La visión de los vencidos
 
-- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s) <i class="far fa-bookmark"></i> §1-34
-- Miguel León Portilla, [*La visión de los vencidos*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=8wtn8o) <i class="far fa-bookmark"></i> "Cantos tristes de Conquista" (pp. 151-155)
+- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s) &ensp; <i class="far fa-bookmark"></i> §1-34
+- Miguel León Portilla, [*La visión de los vencidos*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=8wtn8o) &ensp; <i class="far fa-bookmark"></i> "Cantos tristes de Conquista" (pp. 151-155)
 
 # Semana 5 
 ### Épica de la frontera
