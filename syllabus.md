@@ -44,8 +44,8 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 4
 ###  Las otras conquistas
 
-- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s)
-- [Códice Boturini o tira de la peregrinación.](http://codiceboturini.inah.gob.mx/home.php)
+- Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdsxoEt-iqBKiU1qafHcpckBl26rk8Oi3MgmY7-f6yNRjQ?e=oFrg4i) (1570s) <i class="far fa-bookmark"></i> §1-34
+- Miguel León Portilla, [*La visión de los vencidos*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EcVN8UQOCotOmN31264WjYABlW3ePbdYJkbmFUbGQ0q00Q?e=8wtn8o) <i class="far fa-bookmark"></i> "Cantos tristes de Conquista" (pp. 151-155)
 
 # Semana 5 
 ### Épica de la frontera
