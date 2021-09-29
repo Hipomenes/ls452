@@ -30,10 +30,10 @@ subtitle: Fall 2021
 | VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca   | | 
 |     | Oct. 20  | Cabeza de Vaca | | 
 |     | Oct. 22  | Echeverría
-| VIII| Oct. 25  |    | | 
+| VIII| Oct. 25  |    | | Midterm
 |     | Oct. 27  | 
 |     | Oct. 29  | 
-| IX  | Nov. 1   |    | | 
+| IX  | Nov. 1   |    | | 3ªComposición
 |     | Nov. 3   | 
 |     | Nov. 5   | 
 | X   | Nov. 8   |    | | 
@@ -42,7 +42,7 @@ subtitle: Fall 2021
 | XI  | Nov. 15  |    | | 
 |     | Nov. 17  | 
 |     | Nov. 19  | 
-| XII | Nov. 22 (*Remote Class*) |   | |
+| XII | Nov. 22 (*Remote Class*) |   | | 4ª Composición
 |     | Nov. 24  | **Thanksgiving**
 |     | Nov. 26  | **Thanksgiving**
 |XIII | Nov. 29  |    | | 
