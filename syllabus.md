@@ -51,7 +51,7 @@ bigimg: /img/cuauhquecholan.jpg
 ### Épica de la frontera
 
 - Adorno & Echeverría, *Breve historia*  &ensp; <i class="far fa-bookmark"></i> “Hazañas épicas” (pp. 78-90 )
-- Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
+- Alonso de Ercilla y Zúñiga, [La Araucana](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZXuPiZj7a5AlOCuYxPYVtQB0eligx7yf9EC3gRsCA3Seg?e=pq3QBh) (1569 - 1589)&ensp; <i class="far fa-bookmark"></i> Prólogo, Declaración y Canto I 
 
 # Semana 6 
 ### La épica vacilante
