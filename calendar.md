@@ -21,9 +21,9 @@ subtitle: Fall 2021
 | IV  | Sep. 27  | Tezozomoc, §1-8  | | 
 |     | Sep. 29  | Tezozomoc, §9-34 |
 |     | Oct. 1   | Cantos tristes (pp. 151-155) |   | 
-| V   | Oct. 4   | Adorno, chap. 6; Ercilla, Canto I | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
+| V   | Oct. 4   | Adorno, chap. 6; Ercilla, "Prólogo" y "Declaración" | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
 |     | Oct. 6   | Ercilla, Canto I
-|     | Oct. 8   | Erccilla, Canto XXIV | | 
+|     | Oct. 8   | Erccilla, Canto I | | 
 | VI  | Oct. 11  | **Indigenous Peoples' Day** 
 |     | Oct. 13  | Evento cultural [TBA]
 |     | Oct. 15  | *No hay lecturas* | **Midterm** | 
