@@ -54,10 +54,10 @@ bigimg: /img/cuauhquecholan.jpg
 - Alonso de Ercilla y Zúñiga, [La Araucana](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZXuPiZj7a5AlOCuYxPYVtQB0eligx7yf9EC3gRsCA3Seg?e=pq3QBh) (1569 - 1589)&ensp; <i class="far fa-bookmark"></i> Prólogo, Declaración y Canto I 
 
 # Semana 6 
-### La épica vacilante
+### Semana especial: el legado colombino
 
-- Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]()
-- Bernal Díaz del Castillo, [Historia verdadera de la conquista de la Nueva España, selección]() (1632)
+- Debate: Los Legados Coloniales en Iberoamérica
+- Tour virtual: [“Centro Histórico, Corazón de México"](https://www.bu.edu/las/news-events/calendar/?eid=258775) (MODO)
 
 # Semana 7 
 ### Sujetos ex-céntricos 
