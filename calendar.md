@@ -24,8 +24,8 @@ subtitle: Fall 2021
 | V   | Oct. 4   | Adorno, chap. 6; Ercilla, "Prólogo" y "Declaración" | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
 |     | Oct. 6   | Ercilla, Canto I
 |     | Oct. 8   | Erccilla, Canto I | | 
-| VI  | Oct. 11  | **Indigenous Peoples' Day** 
-|     | Oct. 13  | Evento cultural [TBA]
+| VI  | Oct. 12  | Debate
+|     | Oct. 13  | [Virtual Tour](https://www.bu.edu/las/news-events/calendar/?eid=258775)
 |     | Oct. 15  | *No hay lecturas* | **Midterm** | 
 | VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca   | | 
 |     | Oct. 20  | Cabeza de Vaca | | 
