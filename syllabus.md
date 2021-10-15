@@ -63,8 +63,8 @@ bigimg: /img/cuauhquecholan.jpg
 ### Sujetos ex-céntricos 
 
 - Adorno & Echeverría, *Breve historia*  &ensp; <i class="far fa-bookmark"></i> "Una odisea española en Norteamérica" (pp. 71-77) 
-- Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
-- 🎥︁ [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
+- Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQxi8Rr47jFBqDrt9pOrOP4BCP-4PeRSsQ6R_udSRvDz_A?e=WnfiGA)
+- 🎥︁ [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)](https://youtube.com/playlist?list=PLDOeaioyzG1SiAZK7ugRm0P4GWzC9nvNN)
 
 # Semana 8 
 ### Geografías alucinadas
