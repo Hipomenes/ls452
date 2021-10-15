@@ -27,9 +27,9 @@ subtitle: Fall 2021
 | VI  | Oct. 12  | Debate
 |     | Oct. 13  | [Virtual Tour](https://www.bu.edu/las/news-events/calendar/?eid=258775)
 |     | Oct. 15  | *No hay lecturas* | **Midterm** | 
-| VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca   | | 
-|     | Oct. 20  | Cabeza de Vaca | | 
-|     | Oct. 22  | Echeverría
+| VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca  chp. 1-8 | | 
+|     | Oct. 20  | Cabeza de Vaca chp. 12-16  |  | 
+|     | Oct. 22  | Película | | Presentación: Baiden
 | VIII| Oct. 25  |    | [3ªComposición]()  | 
 |     | Oct. 27  | 
 |     | Oct. 29  | 
