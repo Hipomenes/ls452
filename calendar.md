@@ -23,7 +23,7 @@ subtitle: Fall 2021
 |     | Oct. 1   | Cantos tristes (pp. 151-155) |   | 
 | V   | Oct. 4   | Adorno, chap. 6; Ercilla, "Prólogo" y "Declaración" | [2ª Composición](https://dhcolmenares.net/ls452/assignments/#segunda-composici%C3%B3n) | 
 |     | Oct. 6   | Ercilla, Canto I
-|     | Oct. 8   | Erccilla, Canto I | | 
+|     | Oct. 10   | Ercilla, Canto I | | Madeleine
 | VI  | Oct. 12  | Debate
 |     | Oct. 13  | [Virtual Tour](https://www.bu.edu/las/news-events/calendar/?eid=258775)
 |     | Oct. 15  | *No hay lecturas* | **Midterm** | 
