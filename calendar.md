@@ -29,23 +29,23 @@ subtitle: Fall 2021
 |     | Oct. 15  | *No hay lecturas* | **Midterm** | 
 | VII | Oct. 18  | Adorno, chap. 5; Cabeza de Vaca  chp. 1-8 | | 
 |     | Oct. 20  | Cabeza de Vaca chp. 12-16  |  | 
-|     | Oct. 22  | Película | | Presentación: Baiden
+|     | Oct. 22  | Película | | 
 | VIII| Oct. 25  |    | [3ªComposición]()  | 
-|     | Oct. 27  | 
+|     | Oct. 27  |  | Ben |
 |     | Oct. 29  | 
-| IX  | Nov. 1   |    || 
+| IX  | Nov. 1   |    | | Brooke
 |     | Nov. 3   | 
-|     | Nov. 5   | 
-| X   | Nov. 8   |    | | 
+|     | Nov. 5   | | | Baiden
+| X   | Nov. 8   |    | | Jack 
 |     | Nov. 10  | 
-|     | Nov. 12  | 
+|     | Nov. 12  |     
 | XI  | Nov. 15  |    | [4ª Composición]() | 
-|     | Nov. 17  | 
+|     | Nov. 17  | | | Shannen
 |     | Nov. 19  | 
-| XII | Nov. 22 (*Remote Class*) |   | Propuesta trabajo final | 
+| XII | Nov. 22 (*Remote Class*) |   | Propuesta trabajo final | Lincoln
 |     | Nov. 24  | **Thanksgiving**
 |     | Nov. 26  | **Thanksgiving**
-|XIII | Nov. 29  |    | | 
+|XIII | Nov. 29  |    | | Nikhita
 |     | Dec. 1   | 
 |     | Dec. 3   | 
 | XIV | Dec. 6   | Taller de Trabajos Finales I
