@@ -39,3 +39,12 @@ pd. Si incluyes en tu ensayo el análisis de un término en lengua nahuatl utili
 
 Extensión: 800 a 1000 palabras. 
 
+# Tercera Composición 
+
+Para esa composición, debes leer y analizar el fascinante capítulo 22 de los Naufragios.
+Comienza por describir en tus propias palabras lo que sucede en este capítulo. ¿Te parece verosímil lo que ocurre?
+¿Cuáles son los motivos de Cabeza de Vaca? ¿Qué cosas imaginas que no nos está diciendo?
+Contrasta y compara este capítulo con la interpretación de este evento que aparece en la película *Cabeza de Vaca* (Echevarría, 1992).
+
+Extensión mínima: 700 palabras.
+
