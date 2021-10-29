@@ -75,7 +75,8 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 9 
 ### El Amazonas
 
-- 🎥︁ [*Aguirre, la ira de Dios* (Dir: Werner Herzog, 1971)]()- Adorno & Echeverría, *Breve historia*  &ensp; <i class="far fa-bookmark"></i> “Plenitud barroca” (pp. 109-122)    
+- 🎥︁ [*Aguirre, la ira de Dios* (Dir: Werner Herzog, 1971)]()- Available in Amazon Prime, Youtube, Apple TV, etc.
+- [Carta de Lope de Aguirre a Felipe II](http://www.gabrielbernat.es/conquista/html/carta.html)
 
 # Semana 10 
 ### Espacios desdoblados y múltiples
