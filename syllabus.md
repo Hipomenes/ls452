@@ -81,7 +81,7 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 10 
 ### Espacios desdoblados y múltiples
 
-- Francisco de Aguilera, [*Vida de la venerable Catherina de San Juan*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYI5qDXLlaNOi5jSFLwNh_gBKyH_CjGEfy6voZnxdYT5ng?e=4a7VSW) (Puebla, 1688)
+- Francisco de Aguilera, [*Vida de la venerable Catherina de San Juan*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYI5qDXLlaNOi5jSFLwNh_gBKyH_CjGEfy6voZnxdYT5ng?e=4a7VSW) (Puebla, 1688)   
 - Sor María de Agreda en Nuevo México: [Documental](https://youtu.be/j3opsS8V6OE) y [Artículo breve](https://mariadeagreda.org/quien-fue/la-dama-de-azul/)
 
 # Semana 11
