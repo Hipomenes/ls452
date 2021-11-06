@@ -31,14 +31,14 @@ subtitle: Fall 2021
 |     | Oct. 20  | Cabeza de Vaca chp. 12-16  |  | 
 |     | Oct. 22  | Película | | 
 | VIII| Oct. 25  |    | [3ªComposición]()  | 
-|     | Oct. 27  |  | Ben |
+|     | Oct. 27  |  |  |
 |     | Oct. 29  | 
-| IX  | Nov. 1   |    | | Brooke
-|     | Nov. 3   | 
-|     | Nov. 5   | | | Baiden
-| X   | Nov. 8   |    | | Jack 
-|     | Nov. 10  | 
-|     | Nov. 12  |     
+| IX  | Nov. 1   | Herzog   | | Brooke
+|     | Nov. 3   | Herzog | | 
+|     | Nov. 5   | Aguirre | | Baiden
+| X   | Nov. 8   | Aguilera, 171-184  | | Jack 
+|     | Nov. 10  | Vetancour, 185-212
+|     | Nov. 12  | Sor Agreda | Ben |    
 | XI  | Nov. 15  |    | [4ª Composición]() | 
 |     | Nov. 17  | | | Shannen
 |     | Nov. 19  | 
