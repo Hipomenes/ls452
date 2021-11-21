@@ -87,12 +87,12 @@ bigimg: /img/cuauhquecholan.jpg
 # Semana 11
 ### Vagabundeos planetarios
 
-- Sigüenza y Góngora, Infortunios de Alonso Ramírez
+- Sigüenza y Góngora, *Infortunios de Alonso Ramírez*
 
 # Semana 12
 ### Identidad y género en tránsito
 
-- 🎥︁ *La monja alférez* (Dir: Emilio Gómez Muriel, 1944)
+- 🎥︁ [*La monja alférez* (Dir: Emilio Gómez Muriel, 1944)](https://youtu.be/rbsW_dnk9dA)
 
 # Semana 13 
 ### Legados coloniales y posibilidades futuras
