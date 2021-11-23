@@ -95,9 +95,9 @@ bigimg: /img/cuauhquecholan.jpg
 - 🎥︁ [*La monja alférez* (Dir: Emilio Gómez Muriel, 1944)](https://youtu.be/rbsW_dnk9dA)
 
 # Semana 13 
-### Legados coloniales y posibilidades futuras
+### Farsas y comedias de un mundo globalizado
 
-- Conferencias y eventos contemporáneos
+-Gil Vicente, [La farsa de India (Auto da India)](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ETegCpJG8etBqhzPP_uAT5IBYHo0q3C_teGrOZ9In8pCPA?e=dpCHzl) (1509)
 
 # Semana 14
 ### Taller de trabajos finales
