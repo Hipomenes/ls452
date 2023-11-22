@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cronica de Indias (Master Syllabus)
+title: Cronica de Indias, (Master Syllabus)
 bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.latinamericanstudies.org%2Ftlaxcala%2FTlaxcala-lienzo-13.jpg&f=1&nofb=1&ipt=2bd74353f7d77a5e74187a03b64ba08e49b715dbe1bb4eed7b45f7a99ce93615&ipo=images
 ---
 
@@ -16,13 +16,29 @@ bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.latiname
 <br>
 
 # Semana ∅
+
+El curso se basa en la lectura, demorada y extensa, de ciertas cronicas de Indias. 
+Cada año las lecturas cambiarán un poco. La idea de este curso no es dar un panorama, sino dedicar tiempo a leer la mayor extensión posible de las obras. 
+Además, las abordaremos como artefactos literarios y retóricos (esto es, diseñados para surtir efectos en el oyente), por lo que el curso pone particular atención a los paratextos, incluyendo prólogos, dedicatorias, portadas, grabados, etc. 
+Pensaremos incluso en la materialidad de los textos, desde los aspectos de la circulación manuscrita al complicado acceso a la imprenta.
+La dimensión retórico-literaria será la fundamental, por lo que pondremos mucha atención a elementos como la oralidad, la movilización de los afectos, pero también y sobre todo el uso del arte de la memoria.
+
 ## Introduction
 
 Introducción a la clase. Descripción de los temas, lecturas e ideas principales. Detalles del curso. A cotninuación, realizar una única actvidad. 
-
 1. Utilizando la "Alegoría de América" de Stradanus, dividir la clase en grupos y analizar detalladamente, identificar todos los elementos. Luego, en grupo, tratar de imaginar el sentido de la imagen. Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
 2. Leer en grupo el texto de Michel de Certeau, [*La escritura de la historia*, fragmento]()
 
+# Semana 1a
+
+# Textos colombinos
+
+- Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
+- Cristobal Colon, [*Diario de Abordo*]() o
+- Cristobal Colón, [Libro de las profesias]()
+
+
+---
 
 # Semana 1 
 ## La "invención" del Nuevo Mundo
