@@ -119,53 +119,33 @@ En esta ocasión hacemos una excepción para leer uno de los grandes ensayos de 
 - En clase, hablar de Enrique Dussel: Las Casas como «el primer crítico frontal de la modernidad».
    
 
----
+# IV. Fracaso y desmitificación
 
-
-# Semana 4
-
-# Semana 7 
-## Sujetos ex-céntricos 
+## a. Naufragios
 
 - Álvar Núñez Cabeza de Vaca, [*Naufragios y comentarios*]()
-- [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
-    - [Worksheet](https://drive.google.com/file/d/1HJxurGFDX5nMubekRUnpgjDQgt2laCtZ/view?usp=sharing)
+    - [*Cabeza de Vaca* (Dir: Nicolás Echevarría, 1990)]()
 
-# Semana 8. 
-## Geografías alucinadas
+## b. Vislumbres y espejismos 
 
 - Fray Marcos de Niza, “Descubrimiento de las siete ciudades de Cíbola"
 - [*Aguire, la ira de Dios*(Dir: Werner Herzog, 1971)]()
 
+## Notas
 
-# Semana 9. 
-## Miradas locales, horizontes globales
+- [Worksheet](https://drive.google.com/file/d/1HJxurGFDX5nMubekRUnpgjDQgt2laCtZ/view?usp=sharing) sobre *Naufragios*.
 
-- Bernardo de Balbuena, [Grandeza mexicana]() (1604)
-    - [Biombo del Palacio de los Virreyes de México](https://upload.wikimedia.org/wikipedia/commons/4/49/Large_screen_of_the_Palace_of_the_Viceroys_of_Mexico%2C_ca._1676-1700%2C_Mexico_City%2C_Museum_of_the_Americas%2C_anonimous_painter.jpg)
-    - [Worksheet]()
+# V. Errancias Globales
 
+## c. De China a Puebla
 
-# Semana 10 
-## Sincrotopías
+- Francisco de Aguilera, [*Vida de la venerable Catherina de San Juan*]() (Puebla, 1688)
 
-- Francisco de Aguilera, Vida de la venerable Catherina de San Juan (Puebla, 1688)
-- Informe de Benavides sobre Sor María Ágreda
+## d. Piratas o cautivos? 
 
-# Semana 11 
-## Errancia planetarios
+- Sigüenza y Góngora, [*Infortunios de Alonso Ramírez*]()
 
-- Sigüenza y Góngora, Infortunios de Alonso Ramírez
+# VI. Relación de lo sucedido
 
-# Semana 12. 
-## Identidades en tránsito
-
-- Catalina de Erauso, Historia de la monja alférez escrita por ella misma
-
-# Semana 13. 
-## Legados coloniales y posibilidades futuras
-
-- Conferencias y eventos contemporáneos
-
-## Semana 14. Taller de trabajos finales
+- Sigüenza y Góngora, [*Motín*]
 
