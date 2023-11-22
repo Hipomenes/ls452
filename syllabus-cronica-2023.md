@@ -68,57 +68,53 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 - Bernal Díaz del Castillo, [*Historia verdadera de la conquista de la Nueva Españá*]()
     - Versión oral: [La lengua navega a América: «Historia verdadera de la conquista de la Nueva España»](https://youtu.be/u2P4MuzGPOs?si=GslarjOPCa5Glvtn)
 
-## c. Visión de los vencidos
+## c. Una historia nahuatl de la Conquista
 
 - Fray Bernardino de Sahagún, [Libro XII del Códice Florentino]()
 
-## Notas
-
-- Adorno & Echeverría, [*Breve historia de la literatura colonial*]() cap. 3
-- Todorov, [*La conquista de América: el problema del otro*]() (1997)
-- Carlos Fuentes, [La anti-épica]()
-- [Worksheet](https://drive.google.com/file/d/1m6_r_haIUK9VUxhICVFWSy6wuNE-Dnbn/view?usp=sharing) sobre la Segunda Carta, el plano-mapa y algunos códices.
-- Sobre Bernal y la memoria artificial, ver:
-    - ILLADES, GUSTAVO, «Fantasmas de la memoria en la Historia verdadera de la conquista de la Nueva España», en AURELIO GONZÁLEZ et al. (editores), *Visiones y crónicas medievales. Actas de las VII Jornadas Medievales*, UNAM-UAM-COLMEX, México, 2002, pp. 147-162.
-    - Beatriz Gutierrez Mueller, [La 'memoria artificial' en la Historia verdadera de la Conquista de la Nueva España, de Bernal Díaz del Castillo](https://www.researchgate.net/publication/364227392_La_'memoria_artificial'_en_la_Historia_verdadera_de_la_Conquista_de_la_Nueva_Espana_de_Bernal_Diaz_del_Castillo), 2018.
-
-
----
-
-# Semana 2
-## Malestares imperiales
-
-- Adorno & Echeverría, *Breve historia*. &ensp; <i class="far fa-bookmark"></i> “Las polémicas sobre la posesión de las Indias” (pp. 49-55)
-- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*, selección](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EROXXtX5rRpBipr5h7EQZQMB0JXsPu7HVYA1OD25IZZm-g?e=nFArRv) (1540s)
-- [Sermón profético del dominico Antón Montesinos en defensa de los indios](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EQZM1rSG12JCrckn8zCiRLIBRiLaa6Nt-Wncbn_3DVBaGQ?e=1z7D2h) (1511)
-    - ~~[Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)~~ Dudo que de tiempo de usarlo.
-
-### Notas
-
-- Al final de esta semana hay una primera composición sobre la comparación de las fuentes primarias. 
-- En clase, hablar de Enrique Dussel: Las Casas como «el primer crítico frontal de la modernidad».
-   
-
-
-# Semana 4
-##  La visión de los vencidos
+##  d. La visión de los vencidos
 
 - Fernando Alvarado Tezozómoc, [*Crónica mexicáyotl*]()
 - Miguel León Portilla, ["Relación de Tlatelolco"]() (1528)
 - Miguel León Portilla, ["Cantos tristes de la Conquista"]() (1570s)
 
-# Semana 5 
-## Sujeto épico y paisaje
+## Notas
 
-- Adorno & Echeverría, *Breve historia*, “Hazañas épicas” (cap. 6)
-- Alonso de Ercilla y Zúñiga, [La Araucana]() (1569 - 1589)
-
-# Semana 6 
-## Zozobra y épica vacilante
-
+- Adorno & Echeverría, [*Breve historia de la literatura colonial*]() cap. 3
+- Todorov, [*La conquista de América: el problema del otro*]() (1997)
 - Carlos Fuentes, ["La épica vacilante de Bernal Díaz del Castillo"]()
-- Bernal Díaz del Castillo, [*Historia verdadera de la conquista de la Nueva España*, selección]() (1632)
-    - [Worksheet](https://drive.google.com/file/d/1AXf2w0slhJ7CflR6sBhR3OqxofZmBINP/view?usp=sharing)
+- [Worksheet](https://drive.google.com/file/d/1m6_r_haIUK9VUxhICVFWSy6wuNE-Dnbn/view?usp=sharing) sobre la Segunda Carta, el plano-mapa y algunos códices.
+- [Worksheet](https://drive.google.com/file/d/1AXf2w0slhJ7CflR6sBhR3OqxofZmBINP/view?usp=sharing) sobre Bernal Díaz del Castillo.
+- Sobre Bernal y la memoria artificial, ver:
+    - ILLADES, GUSTAVO, «Fantasmas de la memoria en la Historia verdadera de la conquista de la Nueva España», en AURELIO GONZÁLEZ et al. (editores), *Visiones y crónicas medievales. Actas de las VII Jornadas Medievales*, UNAM-UAM-COLMEX, México, 2002, pp. 147-162.
+    - Beatriz Gutierrez Mueller, [La 'memoria artificial' en la Historia verdadera de la Conquista de la Nueva España, de Bernal Díaz del Castillo](https://www.researchgate.net/publication/364227392_La_'memoria_artificial'_en_la_Historia_verdadera_de_la_Conquista_de_la_Nueva_Espana_de_Bernal_Diaz_del_Castillo), 2018.
+
+# III. Imperio y malestar
+
+## a. Las Casas
+
+- Bartolomé de las Casas, [*Brevísima relación de las destrucción de las Indias*]() (1540s)
+    - Versión oral [La lengua navega a América: «Brevísima relación de la destruición de las Indias»](https://youtu.be/CIb-hxDTV9A?si=qbDs9A99CzznwTSL)
+
+## b. Crítica de la Modernidad
+
+En esta ocasión hacemos una excepción para leer uno de los grandes ensayos de Enrique Dussel.
+
+- [Sermón profético del dominico Antón Montesinos en defensa de los indios]() (1511)
+- [Grabados de Theodor de Bry](https://commons.wikimedia.org/wiki/Category:Prints_from_Bartolom%C3%A9_de_las_Casas_Regionum) (Fráncfort, 1598)
+- Enrique Dussel, [articulo]()
+
+## Notas
+
+- Adorno & Echeverría, *Breve historia*, “Las polémicas sobre la posesión de las Indias” (pp. 49-55).
+- Al final de esta semana hay una primera composición sobre la comparación de las fuentes primarias. 
+- En clase, hablar de Enrique Dussel: Las Casas como «el primer crítico frontal de la modernidad».
+   
+
+---
+
+
+# Semana 4
 
 # Semana 7 
 ## Sujetos ex-céntricos 
