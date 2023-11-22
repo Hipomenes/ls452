@@ -13,7 +13,6 @@ bigimg: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.latiname
 <br>
 <hr>
 <br>
-<br>
 
 # Semana ∅
 
@@ -31,6 +30,9 @@ Los estudiantes trabajaran con unas guias de lectura y actividades, pero en gene
 Introducción a la clase. Descripción de los temas, lecturas e ideas principales. Detalles del curso. A cotninuación, realizar una única actvidad. 
 1. Utilizando la "Alegoría de América" de Stradanus, dividir la clase en grupos y analizar detalladamente, identificar todos los elementos. Luego, en grupo, tratar de imaginar el sentido de la imagen. Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
 2. Leer en grupo el texto de Michel de Certeau, [*La escritura de la historia*, fragmento]()
+
+<hr>
+<br>
 
 # I. La invencion del Nuevo Mundo
 
@@ -55,6 +57,9 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 - En general, la carta a Santángel basta y sobra para dos clases. Al final decidí añadir dos cartas de Pietro Martire, sobre quien además Adorno tiene mucho que decir.
 - Mis comentarios iniciales versaron sobre tres temas: 1) El destinatario (Santángel) y lo que nos dice de la empresa colombian, 2) Texto fundacional por múltiples motivos, y 3) La lengua colombina que ya no es solamente el castellano sino el español trasatlántico.
 - Surgió un tema fascinante en clase: la dimensión estoica de las cartas de Anghiera y los posibles inicios de una crítica al colonialismo ya desde esos textos. Explorar más a partir de Las Casas.
+
+<hr>
+<br>
 
 # II. El discurso de Conquista 
 
@@ -88,6 +93,9 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 - Sobre Bernal y la memoria artificial, ver:
     - ILLADES, GUSTAVO, «Fantasmas de la memoria en la Historia verdadera de la conquista de la Nueva España», en AURELIO GONZÁLEZ et al. (editores), *Visiones y crónicas medievales. Actas de las VII Jornadas Medievales*, UNAM-UAM-COLMEX, México, 2002, pp. 147-162.
     - Beatriz Gutierrez Mueller, [La 'memoria artificial' en la Historia verdadera de la Conquista de la Nueva España, de Bernal Díaz del Castillo](https://www.researchgate.net/publication/364227392_La_'memoria_artificial'_en_la_Historia_verdadera_de_la_Conquista_de_la_Nueva_Espana_de_Bernal_Diaz_del_Castillo), 2018.
+
+<hr>
+<br>
 
 # III. Imperio y malestar
 
