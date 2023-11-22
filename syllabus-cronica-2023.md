@@ -48,13 +48,40 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 
 - Pêro Vaz de Caminha, [*Carta del descubrimiento de Brasil*](https://www.acantilado.es/catalogo/carta-del-descubrimiento-de-brasil/)
 
-## Notas y bibliografia
+## Notas
 
 - [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing) sobre imágenes del Descubrimiento.
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
 - En general, la carta a Santángel basta y sobra para dos clases. Al final decidí añadir dos cartas de Pietro Martire, sobre quien además Adorno tiene mucho que decir.
 - Mis comentarios iniciales versaron sobre tres temas: 1) El destinatario (Santángel) y lo que nos dice de la empresa colombian, 2) Texto fundacional por múltiples motivos, y 3) La lengua colombina que ya no es solamente el castellano sino el español trasatlántico.
 - Surgió un tema fascinante en clase: la dimensión estoica de las cartas de Anghiera y los posibles inicios de una crítica al colonialismo ya desde esos textos. Explorar más a partir de Las Casas.
+
+# II. El discurso de Conquista 
+
+## a. Textos cortesianos 
+
+- Hernán Cortés, ["Segunda Carta de Relación"]()
+- [Mapa de Nuremberg]() (Nuremberg, 1524) 
+
+## b. La anti-épica bernaldiana
+
+- Bernal Díaz del Castillo, [*Historia verdadera de la conquista de la Nueva Españá*]()
+    - Versión oral: [La lengua navega a América: «Historia verdadera de la conquista de la Nueva España»](https://youtu.be/u2P4MuzGPOs?si=GslarjOPCa5Glvtn)
+
+## c. Visión de los vencidos
+
+- Fray Bernardino de Sahagún, [Libro XII del Códice Florentino]()
+
+## Notas
+
+- Adorno & Echeverría, [*Breve historia de la literatura colonial*]() cap. 3
+- Todorov, [*La conquista de América: el problema del otro*]() (1997)
+- Carlos Fuentes, [La anti-épica]()
+- [Worksheet](https://drive.google.com/file/d/1m6_r_haIUK9VUxhICVFWSy6wuNE-Dnbn/view?usp=sharing) sobre la Segunda Carta, el plano-mapa y algunos códices.
+- Sobre Bernal y la memoria artificial, ver:
+    - ILLADES, GUSTAVO, «Fantasmas de la memoria en la Historia verdadera de la conquista de la Nueva España», en AURELIO GONZÁLEZ et al. (editores), *Visiones y crónicas medievales. Actas de las VII Jornadas Medievales*, UNAM-UAM-COLMEX, México, 2002, pp. 147-162.
+    - Beatriz Gutierrez Mueller, [La 'memoria artificial' en la Historia verdadera de la Conquista de la Nueva España, de Bernal Díaz del Castillo](https://www.researchgate.net/publication/364227392_La_'memoria_artificial'_en_la_Historia_verdadera_de_la_Conquista_de_la_Nueva_Espana_de_Bernal_Diaz_del_Castillo), 2018.
+
 
 ---
 
