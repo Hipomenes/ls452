@@ -23,6 +23,7 @@ Además, las abordaremos como artefactos literarios y retóricos (esto es, dise�
 Pensaremos incluso en la materialidad de los textos, desde los aspectos de la circulación manuscrita al complicado acceso a la imprenta.
 La dimensión retórico-literaria será la fundamental, por lo que pondremos mucha atención a elementos como la oralidad, la movilización de los afectos, pero también y sobre todo el uso del arte de la memoria.
 En este curso de fuentes primarias y obras de gran densidad literaria y retorica los estudiantes no leeran literatura secundaria, pero esta se hara disponible como bibliografia.
+Los estudiantes trabajaran con unas guias de lectura y actividades, pero en general la clase se conducira como un seminario.
 
 ## Introduction
 
@@ -30,40 +31,31 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 1. Utilizando la "Alegoría de América" de Stradanus, dividir la clase en grupos y analizar detalladamente, identificar todos los elementos. Luego, en grupo, tratar de imaginar el sentido de la imagen. Stradanus & Theodoor Galle, [“Allegory of America,” from New Inventions of Modern Times (Nova Reperta),  ca. 1600](https://www.metmuseum.org/art/collection/search/666288)
 2. Leer en grupo el texto de Michel de Certeau, [*La escritura de la historia*, fragmento]()
 
-# Semana 1a
+# I. La invencion del Nuevo Mundo
 
-## Textos colombinos
+## a. Textos colombinos
 
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
 - Cristobal Colon, [*Diario de Abordo*]() ~ Utilizar las selecciones del Core Curriculum y de la lectura "La lengua viaja a America" (RAE, 2017).
 
-# Semana 1b
-
-## El evento colombino
+## b. El evento colombino
 
 - Amerigo Vespucci, [*Mundus novus*]() (1503)
 - Pietro Martire d'Anghiera, [Cartas Nº 133, 134](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
 
-Material suplementario: [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing) sobre imágenes del Descubrimiento.
+## c. Brasil
 
----
+- Pêro Vaz de Caminha, [*Carta del descubrimiento de Brasil*](https://www.acantilado.es/catalogo/carta-del-descubrimiento-de-brasil/)
 
+## Notas y bibliografia
 
-# Semana 1 
-## La "invención" del Nuevo Mundo
-
+- [Worksheet](https://drive.google.com/file/d/1LqFvR7qWFhho8b96096WODrsoOAbC6Sm/view?usp=sharing) sobre imágenes del Descubrimiento.
 - Adorno & Echeverría, [*Breve historia de la literatura latinoamericana colonial y moderna*](), cap. 1
-- Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
-
-- ~~Amerigo Vespucci, ["Carta a Lorenzo de Médicis"]()(1503)~~
-    - Discusión sobre preguntas, en grupos pequeños: 1) Geografía local-global, 2) Mito, credibilidad, observación, 3) Naturaleza, 4) Geografía humana / etnografía.
-      
-### Notas
-
 - En general, la carta a Santángel basta y sobra para dos clases. Al final decidí añadir dos cartas de Pietro Martire, sobre quien además Adorno tiene mucho que decir.
 - Mis comentarios iniciales versaron sobre tres temas: 1) El destinatario (Santángel) y lo que nos dice de la empresa colombian, 2) Texto fundacional por múltiples motivos, y 3) La lengua colombina que ya no es solamente el castellano sino el español trasatlántico.
 - Surgió un tema fascinante en clase: la dimensión estoica de las cartas de Anghiera y los posibles inicios de una crítica al colonialismo ya desde esos textos. Explorar más a partir de Las Casas.
 
+---
 
 # Semana 2
 ## Malestares imperiales
