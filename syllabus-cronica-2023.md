@@ -22,6 +22,7 @@ Cada año las lecturas cambiarán un poco. La idea de este curso no es dar un pa
 Además, las abordaremos como artefactos literarios y retóricos (esto es, diseñados para surtir efectos en el oyente), por lo que el curso pone particular atención a los paratextos, incluyendo prólogos, dedicatorias, portadas, grabados, etc. 
 Pensaremos incluso en la materialidad de los textos, desde los aspectos de la circulación manuscrita al complicado acceso a la imprenta.
 La dimensión retórico-literaria será la fundamental, por lo que pondremos mucha atención a elementos como la oralidad, la movilización de los afectos, pero también y sobre todo el uso del arte de la memoria.
+En este curso de fuentes primarias y obras de gran densidad literaria y retorica los estudiantes no leeran literatura secundaria, pero esta se hara disponible como bibliografia.
 
 ## Introduction
 
@@ -31,14 +32,13 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 
 # Semana 1a
 
-# Textos colombinos
+## Textos colombinos
 
 - Cristobal Colón, ["Carta a Luis de Santangel (Febrero 15, 1493)"]() (1493)
-- Cristobal Colon, [*Diario de Abordo*]() o
-- Cristobal Colón, [Libro de las profesias]()
-
+- Cristobal Colon, [*Diario de Abordo*]() ~ Utilizar las selecciones del Core Curriculum y de la lectura "La lengua viaja a America" (RAE, 2017).
 
 ---
+
 
 # Semana 1 
 ## La "invención" del Nuevo Mundo
