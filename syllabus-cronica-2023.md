@@ -25,6 +25,7 @@ La dimensión retórico-literaria será la fundamental, por lo que pondremos muc
 En este curso de fuentes primarias y obras de gran densidad literaria y retorica los estudiantes no leeran literatura secundaria, pero esta se hara disponible como bibliografia.
 Los estudiantes trabajaran con unas guias de lectura y actividades, pero en general la clase se conducira como un seminario.
 
+
 ## Introduction
 
 Introducción a la clase. Descripción de los temas, lecturas e ideas principales. Detalles del curso. A cotninuación, realizar una única actvidad. 
@@ -40,7 +41,7 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 
 ## b. El evento colombino
 
-- Amerigo Vespucci, [*Mundus novus*]() (1503)
+- Amerigo Vespucci, [*Mundus novus*](https://jcblibrary.org/collection/mundus-novus) (1503)
 - Pietro Martire d'Anghiera, [Cartas Nº 133, 134](https://drive.google.com/open?id=1B2Wlo5ufMxpT_oRl6iUPlgt-MotjPIHP) (1493)
 
 ## c. Brasil
