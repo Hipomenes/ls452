@@ -71,14 +71,32 @@ Introducción a la clase. Descripción de los temas, lecturas e ideas principale
 - Al final de esta semana hay una primera composición sobre la comparación de las fuentes primarias. 
 - En clase, hablar de Enrique Dussel: Las Casas como «el primer crítico frontal de la modernidad».
    
-# Semana 3
-##  El discurso de Conquista 
+# II. El discurso de Conquista 
 
-- Adorno & Echeverría, [*Breve historia...*](), cap. 3
-- Todorov, [*La conquista de América: el problema del otro*]() (1997)
+## a. Textos cortesianos 
+
 - Hernán Cortés, ["Segunda Carta de Relación"]()
 - [Mapa de Nuremberg]() (Nuremberg, 1524) 
-    - [Worksheet](https://drive.google.com/file/d/1m6_r_haIUK9VUxhICVFWSy6wuNE-Dnbn/view?usp=sharing)
+
+## b. La anti-épica bernaldiana
+
+- Bernal Díaz del Castillo, [*Historia verdadera de la conquista de la Nueva Españá*]()
+    - Versión oral: [La lengua navega a América | «Historia verdadera de la conquista de la Nueva España»](https://youtu.be/u2P4MuzGPOs?si=GslarjOPCa5Glvtn)
+
+## c. Visión de los vencidos
+
+- Fray Bernardino de Sahagún, [Libro XII del Códice Florentino]()
+
+
+# Materiales y notas
+
+- Adorno & Echeverría, [*Breve historia de la literatura colonial*]() cap. 3
+- Todorov, [*La conquista de América: el problema del otro*]() (1997)
+- [Worksheet](https://drive.google.com/file/d/1m6_r_haIUK9VUxhICVFWSy6wuNE-Dnbn/view?usp=sharing) sobre la Segunda Carta, el plano-mapa y algunos códices.
+- Sobre Bernal y la memoria artificial, ver:
+    - ILLADES, GUSTAVO, «Fantasmas de la memoria en la Historia verdadera de la conquista de la Nueva España», en AURELIO GONZÁLEZ et al. (editores), *Visiones y crónicas medievales. Actas de las VII Jornadas Medievales*, UNAM-UAM-COLMEX, México, 2002, pp. 147-162.
+    - Beatriz Gutierrez Mueller, [La 'memoria artificial' en la Historia verdadera de la Conquista de la Nueva España, de Bernal Díaz del Castillo](https://www.researchgate.net/publication/364227392_La_'memoria_artificial'_en_la_Historia_verdadera_de_la_Conquista_de_la_Nueva_Espana_de_Bernal_Diaz_del_Castillo), 2018.
+
 
 # Semana 4
 ##  La visión de los vencidos
