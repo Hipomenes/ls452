@@ -149,3 +149,30 @@ En esta ocasión hacemos una excepción para leer uno de los grandes ensayos de 
 
 - Sigüenza y Góngora, [*Motín*]
 
+# VI. Relaciones de sucesos
+
+## a. Alboroto y motín
+
+- Sigüenza y Góngora, [*Alboroto y motín de los indios*]
+
+## b. Pompas fúnebres
+
+- Cervantes de Salazar, *Túmulo imperial de la gran ciudad de México.* (1560)
+
+## c. Hierophanias
+
+- [Nican mopohua]()
+
+## d. Beatificaciones
+
+- [""Relación de las fiestas que en la ciudad del Cuzco se hicieron por la beatificación del bienaventurado padre Ignacio de Loyola, fundador de la Compañía de Jesús." Lima. Francisco del Canto. 1610.]()
+
+# VII. Coros andinos
+
+- Gumán Poma
+- El Inca Garcilaso
+
+# VIII. Crónica mestiza
+
+- Muñoz Camargo
+- Pomar
